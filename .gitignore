@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+archive/
+node_modules/
+questionnaire-restoration-master/dist/
