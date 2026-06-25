@@ -14,13 +14,35 @@ DATA_DIR = ROOT.parent
 OUT_PATH = ROOT / "web" / "data.json"
 
 
+CONSULTANT_NAME_ALIASES: dict[str, str] = {
+    "javier gutierrez bardales": "Javier Gutierrez",
+}
+
+
+def normalize_consultant_name(name: str) -> str:
+    """Normalize person names for consistent grouping and display."""
+    name = " ".join((name or "").split())
+    if not name:
+        return name
+
+    alias = CONSULTANT_NAME_ALIASES.get(name.lower())
+    if alias:
+        return alias
+
+    # e.g. SAMUEL KIMENYI -> Samuel Kimenyi
+    if name.isupper():
+        return name.title()
+
+    return name
+
+
 def _consultant_display_name(record: dict[str, Any], model: dict[str, Any]) -> str:
     """Prefer the person who filled the form (User) over project title (Respondent)."""
-    user = (model.get("userName") or "").strip()
+    user = normalize_consultant_name((model.get("userName") or "").strip())
     respondent = (record.get("respondent") or "").strip()
     if record.get("source_type") == "consultant" and user:
         return user
-    return respondent or user
+    return normalize_consultant_name(respondent) or user
 
 
 def _cash_flow_row(cf) -> dict[str, float | int]:
@@ -93,6 +115,14 @@ def enrich_record(record: dict[str, Any]) -> dict[str, Any]:
     result = compute_method_cba(method_id, method, model)
     summary = cba_summary_dict(result)
 
+    raw_user = (model.get("userName") or "").strip()
+    user_name = (
+        normalize_consultant_name(raw_user)
+        if record.get("source_type") == "consultant"
+        else raw_user
+    )
+    consultant_name = _consultant_display_name(record, model)
+
     return {
         "id": record["id"],
         "label": record.get("label", ""),
@@ -102,8 +132,8 @@ def enrich_record(record: dict[str, Any]) -> dict[str, Any]:
         "continent": record.get("continent", ""),
         "ecosystem": record.get("ecosystem", ""),
         "respondent": record.get("respondent", ""),
-        "userName": (model.get("userName") or "").strip(),
-        "consultantName": _consultant_display_name(record, model),
+        "userName": user_name,
+        "consultantName": consultant_name,
         "methodId": method_id,
         "methodLabel": record.get("method_label") or METHOD_LABELS.get(method_id, method_id),
         "kpis": {
