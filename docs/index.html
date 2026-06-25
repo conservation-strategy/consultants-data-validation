@@ -19,6 +19,12 @@
     <div id="status" class="loading">Loading data…</div>
 
     <div id="app" hidden>
+      <nav class="app-tabs" role="tablist">
+        <button type="button" class="app-tab active" data-tab="dashboard" role="tab" aria-selected="true">Dashboard</button>
+        <button type="button" class="app-tab" data-tab="consultant-eval" role="tab" aria-selected="false">Consultant evaluation</button>
+      </nav>
+
+      <div id="tabDashboard" class="tab-panel active">
       <details class="global-accordion" open>
         <summary>Global Comparison</summary>
         <div class="global-body">
@@ -143,6 +149,26 @@
           <div id="deltaPanel"></div>
         </div>
       </section>
+      </div>
+
+      <div id="tabConsultantEval" class="tab-panel" hidden>
+        <section class="consultant-eval-section">
+          <div class="consultant-eval-header">
+            <h2>Consultant evaluation</h2>
+            <div class="consultant-eval-toolbar">
+              <label>
+                Consultant
+                <select id="selectConsultantEval"></select>
+              </label>
+              <label class="inline-label compare-rate">
+                Discount rate (NPV)
+                <select id="discountRateEval"></select>
+              </label>
+            </div>
+          </div>
+          <div id="consultantEvalPanel"></div>
+        </section>
+      </div>
     </div>
   </main>
 

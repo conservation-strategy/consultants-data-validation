@@ -10,7 +10,7 @@
     ],
     "timeHorizon": 20,
     "generatedFrom": "C:\\Users\\victo\\OneDrive\\Documentos\\Workstation\\Projetos\\(CSF) Calculadora da restauração\\15_consultants check",
-    "consultantCount": 22,
+    "consultantCount": 24,
     "literatureCount": 156
   },
   "methodLabels": {
@@ -31,6 +31,286 @@
   ],
   "records": [
     {
+      "id": "DRYFORESTMAT__PFNMrestoration_Savanna_or_Dry_Forest_Seed_Dispersal_(with_NTFP)_2026-06-24-03-00-13.xlsx::2::seed_dispersal_ntfp",
+      "label": "Pedro Pereira Santos · Brazil · Savanna or Dry Forest · Seed Dispersal (NTFP)",
+      "sourceType": "consultant",
+      "sourceFile": "DRYFORESTMAT__PFNMrestoration_Savanna_or_Dry_Forest_Seed_Dispersal_(with_NTFP)_2026-06-24-03-00-13.xlsx",
+      "country": "Brazil",
+      "continent": "Americas",
+      "ecosystem": "Savanna or Dry Forest",
+      "respondent": "Dry Forest MT PFNM",
+      "userName": "Pedro Pereira Santos",
+      "consultantName": "Pedro Pereira Santos",
+      "methodId": "seed_dispersal_ntfp",
+      "methodLabel": "Seed Dispersal (NTFP)",
+      "kpis": {
+        "npv": -3933.71,
+        "irr": null,
+        "bcr": 0.13,
+        "paybackYear": null,
+        "totalCost20yr": 4988.28,
+        "totalBenefit20yr": 1287.0,
+        "implCostY1": 2258.66,
+        "maintenanceTotal": 2729.62,
+        "ntfpRevenueTotal": 1287.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": -4232.06
+        },
+        {
+          "rate": 0.06,
+          "npv": -3933.71
+        },
+        {
+          "rate": 0.08,
+          "npv": -3777.86
+        },
+        {
+          "rate": 0.1,
+          "npv": -3647.49
+        },
+        {
+          "rate": 0.12,
+          "npv": -3537.16
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 2258.66,
+          "maintCost": 0.0,
+          "constraintCost": 47.06,
+          "totalCost": 2305.72,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -2305.72
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 216.54,
+          "constraintCost": 47.06,
+          "totalCost": 263.6,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -263.6
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 216.54,
+          "constraintCost": 47.06,
+          "totalCost": 263.6,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -263.6
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 216.54,
+          "constraintCost": 47.06,
+          "totalCost": 263.6,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -263.6
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -177.06
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -177.06
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -177.06
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -177.06
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -177.06
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -60.06
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -60.06
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -60.06
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -60.06
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -60.06
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -60.06
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -60.06
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -60.06
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -60.06
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -60.06
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 47.06,
+          "totalCost": 177.06,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -60.06
+        }
+      ],
+      "detail": {
+        "implementationY1": 2258.66,
+        "maintenanceTotal": 2729.62,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 919.35,
+          "pestControl": 21.8,
+          "total": 941.15
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 2,
+            "yearTo": 20,
+            "annualCost": 130.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 86.54
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 1287.0,
+          "total": 1287.0
+        },
+        "costTotal20yr": 4988.28,
+        "benefitTotal20yr": 1287.0
+      }
+    },
+    {
       "id": "Restoration Mountaine Forest - ANR 50% Enrichment (with_NTFP).xlsx::1::anr_30_ntfp",
       "label": "Javier Gutierrez · Mexico · Mountaine Forest · ANR/50% Enrichment (NTFP)",
       "sourceType": "consultant",
@@ -48,7 +328,7 @@
         "irr": 37.7,
         "bcr": 4.24,
         "paybackYear": 7,
-        "totalCost20yr": 14542.93,
+        "totalCost20yr": 7590.93,
         "totalBenefit20yr": 77024.0,
         "implCostY1": 2446.41,
         "maintenanceTotal": 5144.52,
@@ -312,7 +592,7 @@
           "ntfpRevenueTotal": 77024.0,
           "total": 77024.0
         },
-        "costTotal20yr": 14542.93,
+        "costTotal20yr": 7590.93,
         "benefitTotal20yr": 77024.0
       }
     },
@@ -334,7 +614,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 9152.57,
+        "totalCost20yr": 2336.17,
         "totalBenefit20yr": 0.0,
         "implCostY1": 439.88,
         "maintenanceTotal": 1896.29,
@@ -598,7 +878,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 9152.57,
+        "costTotal20yr": 2336.17,
         "benefitTotal20yr": 0.0
       }
     },
@@ -620,7 +900,7 @@
         "irr": 34.3,
         "bcr": 3.49,
         "paybackYear": 7,
-        "totalCost20yr": 17940.06,
+        "totalCost20yr": 7745.33,
         "totalBenefit20yr": 77024.0,
         "implCostY1": 2600.81,
         "maintenanceTotal": 5144.52,
@@ -884,7 +1164,7 @@
           "ntfpRevenueTotal": 77024.0,
           "total": 77024.0
         },
-        "costTotal20yr": 17940.06,
+        "costTotal20yr": 7745.33,
         "benefitTotal20yr": 77024.0
       }
     },
@@ -906,7 +1186,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 8275.76,
+        "totalCost20yr": 1459.36,
         "totalBenefit20yr": 0.0,
         "implCostY1": 798.77,
         "maintenanceTotal": 660.59,
@@ -1164,7 +1444,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 8275.76,
+        "costTotal20yr": 1459.36,
         "benefitTotal20yr": 0.0
       }
     },
@@ -1186,7 +1466,7 @@
         "irr": 35.4,
         "bcr": 3.43,
         "paybackYear": 7,
-        "totalCost20yr": 18565.84,
+        "totalCost20yr": 8196.04,
         "totalBenefit20yr": 77023.72,
         "implCostY1": 2183.01,
         "maintenanceTotal": 6013.03,
@@ -1450,7 +1730,7 @@
           "ntfpRevenueTotal": 77023.72,
           "total": 77023.72
         },
-        "costTotal20yr": 18565.84,
+        "costTotal20yr": 8196.04,
         "benefitTotal20yr": 77023.72
       }
     },
@@ -1472,7 +1752,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 8827.07,
+        "totalCost20yr": 2010.67,
         "totalBenefit20yr": 0.0,
         "implCostY1": 113.84,
         "maintenanceTotal": 1896.83,
@@ -1736,7 +2016,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 8827.07,
+        "costTotal20yr": 2010.67,
         "benefitTotal20yr": 0.0
       }
     },
@@ -1758,7 +2038,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 16400.0,
+        "totalCost20yr": 7400.0,
         "totalBenefit20yr": 0.0,
         "implCostY1": 5400.0,
         "maintenanceTotal": 2000.0,
@@ -2022,7 +2302,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 16400.0,
+        "costTotal20yr": 7400.0,
         "benefitTotal20yr": 0.0
       }
     },
@@ -2044,7 +2324,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 13100.0,
+        "totalCost20yr": 4100.0,
         "totalBenefit20yr": 0.0,
         "implCostY1": 2500.0,
         "maintenanceTotal": 1600.0,
@@ -2302,7 +2582,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 13100.0,
+        "costTotal20yr": 4100.0,
         "benefitTotal20yr": 0.0
       }
     },
@@ -2324,7 +2604,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 20400.0,
+        "totalCost20yr": 11400.0,
         "totalBenefit20yr": 0.0,
         "implCostY1": 9000.0,
         "maintenanceTotal": 2400.0,
@@ -2582,7 +2862,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 20400.0,
+        "costTotal20yr": 11400.0,
         "benefitTotal20yr": 0.0
       }
     },
@@ -2604,7 +2884,7 @@
         "irr": null,
         "bcr": 0.14,
         "paybackYear": null,
-        "totalCost20yr": 21500.0,
+        "totalCost20yr": 12500.0,
         "totalBenefit20yr": 3000.0,
         "implCostY1": 10500.0,
         "maintenanceTotal": 2000.0,
@@ -2874,7 +3154,7 @@
           "ntfpRevenueTotal": 3000.0,
           "total": 3000.0
         },
-        "costTotal20yr": 21500.0,
+        "costTotal20yr": 12500.0,
         "benefitTotal20yr": 3000.0
       }
     },
@@ -2896,7 +3176,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 19437.94,
+        "totalCost20yr": 14539.0,
         "totalBenefit20yr": 0.0,
         "implCostY1": 3899.0,
         "maintenanceTotal": 10640.0,
@@ -3160,7 +3440,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 19437.94,
+        "costTotal20yr": 14539.0,
         "benefitTotal20yr": 0.0
       }
     },
@@ -3182,7 +3462,7 @@
         "irr": 45.6,
         "bcr": 5.84,
         "paybackYear": 7,
-        "totalCost20yr": 46656.94,
+        "totalCost20yr": 41758.0,
         "totalBenefit20yr": 347840.0,
         "implCostY1": 6978.0,
         "maintenanceTotal": 34780.0,
@@ -3476,7 +3756,7 @@
           "ntfpRevenueTotal": 347840.0,
           "total": 347840.0
         },
-        "costTotal20yr": 46656.94,
+        "costTotal20yr": 41758.0,
         "benefitTotal20yr": 347840.0
       }
     },
@@ -3498,7 +3778,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 22650.94,
+        "totalCost20yr": 17752.0,
         "totalBenefit20yr": 0.0,
         "implCostY1": 4965.0,
         "maintenanceTotal": 12787.0,
@@ -3762,7 +4042,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 22650.94,
+        "costTotal20yr": 17752.0,
         "benefitTotal20yr": 0.0
       }
     },
@@ -3784,7 +4064,7 @@
         "irr": 43.7,
         "bcr": 5.96,
         "paybackYear": 7,
-        "totalCost20yr": 45447.94,
+        "totalCost20yr": 40549.0,
         "totalBenefit20yr": 348824.0,
         "implCostY1": 8287.0,
         "maintenanceTotal": 32262.0,
@@ -4078,7 +4358,7 @@
           "ntfpRevenueTotal": 348824.0,
           "total": 348824.0
         },
-        "costTotal20yr": 45447.94,
+        "costTotal20yr": 40549.0,
         "benefitTotal20yr": 348824.0
       }
     },
@@ -4100,7 +4380,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 28649.94,
+        "totalCost20yr": 23751.0,
         "totalBenefit20yr": 0.0,
         "implCostY1": 7031.0,
         "maintenanceTotal": 16720.0,
@@ -4364,7 +4644,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 28649.94,
+        "costTotal20yr": 23751.0,
         "benefitTotal20yr": 0.0
       }
     },
@@ -4386,7 +4666,7 @@
         "irr": 39.9,
         "bcr": 5.37,
         "paybackYear": 7,
-        "totalCost20yr": 50123.94,
+        "totalCost20yr": 45225.0,
         "totalBenefit20yr": 354404.0,
         "implCostY1": 10075.0,
         "maintenanceTotal": 35150.0,
@@ -4680,7 +4960,7 @@
           "ntfpRevenueTotal": 354404.0,
           "total": 354404.0
         },
-        "costTotal20yr": 50123.94,
+        "costTotal20yr": 45225.0,
         "benefitTotal20yr": 354404.0
       }
     },
@@ -4702,7 +4982,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 45547.81,
+        "totalCost20yr": 12431.0,
         "totalBenefit20yr": 0.0,
         "implCostY1": 651.0,
         "maintenanceTotal": 11780.0,
@@ -4966,7 +5246,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 45547.81,
+        "costTotal20yr": 12431.0,
         "benefitTotal20yr": 0.0
       }
     },
@@ -4988,7 +5268,7 @@
         "irr": 3.4,
         "bcr": 0.87,
         "paybackYear": null,
-        "totalCost20yr": 55358.81,
+        "totalCost20yr": 22242.0,
         "totalBenefit20yr": 66250.0,
         "implCostY1": 785.0,
         "maintenanceTotal": 21457.0,
@@ -5258,7 +5538,7 @@
           "ntfpRevenueTotal": 66250.0,
           "total": 66250.0
         },
-        "costTotal20yr": 55358.81,
+        "costTotal20yr": 22242.0,
         "benefitTotal20yr": 66250.0
       }
     },
@@ -5280,7 +5560,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 42557.81,
+        "totalCost20yr": 9441.0,
         "totalBenefit20yr": 0.0,
         "implCostY1": 321.0,
         "maintenanceTotal": 9120.0,
@@ -5544,7 +5824,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 42557.81,
+        "costTotal20yr": 9441.0,
         "benefitTotal20yr": 0.0
       }
     },
@@ -5566,7 +5846,7 @@
         "irr": -6.6,
         "bcr": 0.46,
         "paybackYear": null,
-        "totalCost20yr": 46801.81,
+        "totalCost20yr": 13685.0,
         "totalBenefit20yr": 32400.0,
         "implCostY1": 430.0,
         "maintenanceTotal": 13255.0,
@@ -5836,7 +6116,7 @@
           "ntfpRevenueTotal": 32400.0,
           "total": 32400.0
         },
-        "costTotal20yr": 46801.81,
+        "costTotal20yr": 13685.0,
         "benefitTotal20yr": 32400.0
       }
     },
@@ -5858,7 +6138,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 49471.81,
+        "totalCost20yr": 16355.0,
         "totalBenefit20yr": 0.0,
         "implCostY1": 1250.0,
         "maintenanceTotal": 15105.0,
@@ -6122,7 +6402,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 49471.81,
+        "costTotal20yr": 16355.0,
         "benefitTotal20yr": 0.0
       }
     },
@@ -6144,7 +6424,7 @@
         "irr": 18.2,
         "bcr": 2.16,
         "paybackYear": 11,
-        "totalCost20yr": 53796.81,
+        "totalCost20yr": 20680.0,
         "totalBenefit20yr": 166300.0,
         "implCostY1": 1530.0,
         "maintenanceTotal": 19150.0,
@@ -6414,8 +6694,288 @@
           "ntfpRevenueTotal": 166300.0,
           "total": 166300.0
         },
-        "costTotal20yr": 53796.81,
+        "costTotal20yr": 20680.0,
         "benefitTotal20yr": 166300.0
+      }
+    },
+    {
+      "id": "RSCRNAPFNMrestoration_Savanna_or_Dry_Forest_ANR_50%_Enrichment_(with_NTFP)_2026-06-24-02-11-54.xlsx::0::anr_30_ntfp",
+      "label": "Pedro Pereira Santos · Brazil · Savanna or Dry Forest · ANR/50% Enrichment (NTFP)",
+      "sourceType": "consultant",
+      "sourceFile": "RSCRNAPFNMrestoration_Savanna_or_Dry_Forest_ANR_50%_Enrichment_(with_NTFP)_2026-06-24-02-11-54.xlsx",
+      "country": "Brazil",
+      "continent": "Americas",
+      "ecosystem": "Savanna or Dry Forest",
+      "respondent": "Rede de Sementes RNAPFNM",
+      "userName": "Pedro Pereira Santos",
+      "consultantName": "Pedro Pereira Santos",
+      "methodId": "anr_30_ntfp",
+      "methodLabel": "ANR/50% Enrichment (NTFP)",
+      "kpis": {
+        "npv": -2036.9,
+        "irr": null,
+        "bcr": 0.22,
+        "paybackYear": null,
+        "totalCost20yr": 3677.18,
+        "totalBenefit20yr": 1287.0,
+        "implCostY1": 822.91,
+        "maintenanceTotal": 2854.27,
+        "ntfpRevenueTotal": 1287.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": -2192.74
+        },
+        {
+          "rate": 0.06,
+          "npv": -2036.9
+        },
+        {
+          "rate": 0.08,
+          "npv": -1950.21
+        },
+        {
+          "rate": 0.1,
+          "npv": -1874.38
+        },
+        {
+          "rate": 0.12,
+          "npv": -1807.53
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 822.91,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 822.91,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -822.91
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 258.09,
+          "constraintCost": 0.0,
+          "totalCost": 258.09,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -258.09
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 258.09,
+          "constraintCost": 0.0,
+          "totalCost": 258.09,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -258.09
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 258.09,
+          "constraintCost": 0.0,
+          "totalCost": 258.09,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -258.09
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -130.0
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -130.0
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -130.0
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -130.0
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -130.0
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -13.0
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -13.0
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -13.0
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -13.0
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -13.0
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -13.0
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -13.0
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -13.0
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -13.0
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -13.0
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 130.0,
+          "constraintCost": 0.0,
+          "totalCost": 130.0,
+          "ntfpRevenue": 117.0,
+          "totalBenefit": 117.0,
+          "netFlow": -13.0
+        }
+      ],
+      "detail": {
+        "implementationY1": 822.91,
+        "maintenanceTotal": 2854.27,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 0,
+          "pestControl": 0,
+          "total": 0.0
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 2,
+            "yearTo": 20,
+            "annualCost": 130.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 128.09
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 1287.0,
+          "total": 1287.0
+        },
+        "costTotal20yr": 3677.18,
+        "benefitTotal20yr": 1287.0
       }
     },
     {
@@ -13010,7 +13570,7 @@
         "irr": null,
         "bcr": 0.01,
         "paybackYear": null,
-        "totalCost20yr": 15616.16,
+        "totalCost20yr": 15268.96,
         "totalBenefit20yr": 106.74,
         "implCostY1": 3216.05,
         "maintenanceTotal": 12052.91,
@@ -13268,7 +13828,7 @@
           "ntfpRevenueTotal": 106.74,
           "total": 106.74
         },
-        "costTotal20yr": 15616.16,
+        "costTotal20yr": 15268.96,
         "benefitTotal20yr": 106.74
       }
     },
@@ -14104,7 +14664,7 @@
         "irr": null,
         "bcr": 3.15,
         "paybackYear": 3,
-        "totalCost20yr": 20441.09,
+        "totalCost20yr": 16721.01,
         "totalBenefit20yr": 55000.0,
         "implCostY1": 1998.15,
         "maintenanceTotal": 14722.86,
@@ -14380,7 +14940,7 @@
           "ntfpRevenueTotal": 55000.0,
           "total": 55000.0
         },
-        "costTotal20yr": 20441.09,
+        "costTotal20yr": 16721.01,
         "benefitTotal20yr": 55000.0
       }
     },
@@ -14402,7 +14962,7 @@
         "irr": null,
         "bcr": 0.04,
         "paybackYear": null,
-        "totalCost20yr": 2585.88,
+        "totalCost20yr": 2399.48,
         "totalBenefit20yr": 89.6,
         "implCostY1": 177.5,
         "maintenanceTotal": 2221.98,
@@ -14666,7 +15226,7 @@
           "ntfpRevenueTotal": 89.6,
           "total": 89.6
         },
-        "costTotal20yr": 2585.88,
+        "costTotal20yr": 2399.48,
         "benefitTotal20yr": 89.6
       }
     },
@@ -14688,7 +15248,7 @@
         "irr": null,
         "bcr": 0.04,
         "paybackYear": null,
-        "totalCost20yr": 2842.47,
+        "totalCost20yr": 2605.07,
         "totalBenefit20yr": 89.6,
         "implCostY1": 343.0,
         "maintenanceTotal": 2262.07,
@@ -14952,7 +15512,7 @@
           "ntfpRevenueTotal": 89.6,
           "total": 89.6
         },
-        "costTotal20yr": 2842.47,
+        "costTotal20yr": 2605.07,
         "benefitTotal20yr": 89.6
       }
     },
@@ -14974,7 +15534,7 @@
         "irr": null,
         "bcr": 1.0,
         "paybackYear": 5,
-        "totalCost20yr": 9951.93,
+        "totalCost20yr": 9795.53,
         "totalBenefit20yr": 9000.0,
         "implCostY1": 3690.5,
         "maintenanceTotal": 6105.03,
@@ -15244,7 +15804,7 @@
           "ntfpRevenueTotal": 9000.0,
           "total": 9000.0
         },
-        "costTotal20yr": 9951.93,
+        "costTotal20yr": 9795.53,
         "benefitTotal20yr": 9000.0
       }
     },
@@ -15266,7 +15826,7 @@
         "irr": null,
         "bcr": 1.05,
         "paybackYear": 5,
-        "totalCost20yr": 9511.43,
+        "totalCost20yr": 9340.03,
         "totalBenefit20yr": 9000.0,
         "implCostY1": 3500.0,
         "maintenanceTotal": 5840.03,
@@ -15524,7 +16084,7 @@
           "ntfpRevenueTotal": 9000.0,
           "total": 9000.0
         },
-        "costTotal20yr": 9511.43,
+        "costTotal20yr": 9340.03,
         "benefitTotal20yr": 9000.0
       }
     },
@@ -15546,7 +16106,7 @@
         "irr": null,
         "bcr": 0.76,
         "paybackYear": 8,
-        "totalCost20yr": 8537.2,
+        "totalCost20yr": 7635.39,
         "totalBenefit20yr": 5596.8,
         "implCostY1": 520.0,
         "maintenanceTotal": 7115.39,
@@ -15852,7 +16412,7 @@
           "ntfpRevenueTotal": 5596.8,
           "total": 5596.8
         },
-        "costTotal20yr": 8537.2,
+        "costTotal20yr": 7635.39,
         "benefitTotal20yr": 5596.8
       }
     },
@@ -15874,7 +16434,7 @@
         "irr": null,
         "bcr": 0.94,
         "paybackYear": 3,
-        "totalCost20yr": 10716.87,
+        "totalCost20yr": 8132.07,
         "totalBenefit20yr": 7592.0,
         "implCostY1": 128.0,
         "maintenanceTotal": 8004.07,
@@ -16198,7 +16758,7 @@
           "ntfpRevenueTotal": 7592.0,
           "total": 7592.0
         },
-        "costTotal20yr": 10716.87,
+        "costTotal20yr": 8132.07,
         "benefitTotal20yr": 7592.0
       }
     },
@@ -16220,7 +16780,7 @@
         "irr": null,
         "bcr": 0.34,
         "paybackYear": null,
-        "totalCost20yr": 1740.12,
+        "totalCost20yr": 989.32,
         "totalBenefit20yr": 542.28,
         "implCostY1": 336.57,
         "maintenanceTotal": 652.75,
@@ -16496,7 +17056,7 @@
           "ntfpRevenueTotal": 542.28,
           "total": 542.28
         },
-        "costTotal20yr": 1740.12,
+        "costTotal20yr": 989.32,
         "benefitTotal20yr": 542.28
       }
     },
@@ -17656,7 +18216,7 @@
         "irr": null,
         "bcr": 2.55,
         "paybackYear": 5,
-        "totalCost20yr": 20883.13,
+        "totalCost20yr": 15810.63,
         "totalBenefit20yr": 50166.68,
         "implCostY1": 1977.08,
         "maintenanceTotal": 13833.55,
@@ -17968,7 +18528,7 @@
           "ntfpRevenueTotal": 50166.68,
           "total": 50166.68
         },
-        "costTotal20yr": 20883.13,
+        "costTotal20yr": 15810.63,
         "benefitTotal20yr": 50166.68
       }
     },
@@ -17990,7 +18550,7 @@
         "irr": null,
         "bcr": 0.83,
         "paybackYear": 6,
-        "totalCost20yr": 23625.38,
+        "totalCost20yr": 22958.67,
         "totalBenefit20yr": 15904.04,
         "implCostY1": 2243.87,
         "maintenanceTotal": 20714.8,
@@ -18278,7 +18838,7 @@
           "ntfpRevenueTotal": 15904.04,
           "total": 15904.04
         },
-        "costTotal20yr": 23625.38,
+        "costTotal20yr": 22958.67,
         "benefitTotal20yr": 15904.04
       }
     },
@@ -18300,7 +18860,7 @@
         "irr": null,
         "bcr": 0.73,
         "paybackYear": 9,
-        "totalCost20yr": 32479.04,
+        "totalCost20yr": 32128.24,
         "totalBenefit20yr": 21052.6,
         "implCostY1": 1743.21,
         "maintenanceTotal": 30385.03,
@@ -18582,7 +19142,7 @@
           "ntfpRevenueTotal": 21052.6,
           "total": 21052.6
         },
-        "costTotal20yr": 32479.04,
+        "costTotal20yr": 32128.24,
         "benefitTotal20yr": 21052.6
       }
     },
@@ -18604,7 +19164,7 @@
         "irr": null,
         "bcr": 0.49,
         "paybackYear": null,
-        "totalCost20yr": 36020.8,
+        "totalCost20yr": 35367.47,
         "totalBenefit20yr": 14035.12,
         "implCostY1": 1840.67,
         "maintenanceTotal": 33526.8,
@@ -18910,7 +19470,7 @@
           "ntfpRevenueTotal": 14035.12,
           "total": 14035.12
         },
-        "costTotal20yr": 36020.8,
+        "costTotal20yr": 35367.47,
         "benefitTotal20yr": 14035.12
       }
     },
@@ -18932,7 +19492,7 @@
         "irr": null,
         "bcr": 0.38,
         "paybackYear": null,
-        "totalCost20yr": 75186.85,
+        "totalCost20yr": 60864.05,
         "totalBenefit20yr": 24233.9,
         "implCostY1": 4240.94,
         "maintenanceTotal": 56623.11,
@@ -19238,7 +19798,7 @@
           "ntfpRevenueTotal": 24233.9,
           "total": 24233.9
         },
-        "costTotal20yr": 75186.85,
+        "costTotal20yr": 60864.05,
         "benefitTotal20yr": 24233.9
       }
     },
@@ -19260,7 +19820,7 @@
         "irr": null,
         "bcr": 1.31,
         "paybackYear": 5,
-        "totalCost20yr": 19786.06,
+        "totalCost20yr": 19280.8,
         "totalBenefit20yr": 20350.9,
         "implCostY1": 614.04,
         "maintenanceTotal": 18666.76,
@@ -19536,7 +20096,7 @@
           "ntfpRevenueTotal": 20350.9,
           "total": 20350.9
         },
-        "costTotal20yr": 19786.06,
+        "costTotal20yr": 19280.8,
         "benefitTotal20yr": 20350.9
       }
     },
@@ -19558,7 +20118,7 @@
         "irr": null,
         "bcr": 0.62,
         "paybackYear": 8,
-        "totalCost20yr": 33160.7,
+        "totalCost20yr": 31674.3,
         "totalBenefit20yr": 17464.22,
         "implCostY1": 2694.0,
         "maintenanceTotal": 28980.3,
@@ -19834,7 +20394,7 @@
           "ntfpRevenueTotal": 17464.22,
           "total": 17464.22
         },
-        "costTotal20yr": 33160.7,
+        "costTotal20yr": 31674.3,
         "benefitTotal20yr": 17464.22
       }
     },
@@ -19856,7 +20416,7 @@
         "irr": null,
         "bcr": 1.92,
         "paybackYear": 5,
-        "totalCost20yr": 29801.41,
+        "totalCost20yr": 26201.48,
         "totalBenefit20yr": 51228.08,
         "implCostY1": 3920.86,
         "maintenanceTotal": 22280.62,
@@ -20138,7 +20698,7 @@
           "ntfpRevenueTotal": 51228.08,
           "total": 51228.08
         },
-        "costTotal20yr": 29801.41,
+        "costTotal20yr": 26201.48,
         "benefitTotal20yr": 51228.08
       }
     },
@@ -20446,7 +21006,7 @@
         "irr": null,
         "bcr": 0.75,
         "paybackYear": 8,
-        "totalCost20yr": 31845.56,
+        "totalCost20yr": 24319.71,
         "totalBenefit20yr": 22285.72,
         "implCostY1": 2005.01,
         "maintenanceTotal": 22314.7,
@@ -20818,7 +21378,7 @@
           "ntfpRevenueTotal": 22285.72,
           "total": 22285.72
         },
-        "costTotal20yr": 31845.56,
+        "costTotal20yr": 24319.71,
         "benefitTotal20yr": 22285.72
       }
     },
@@ -20840,7 +21400,7 @@
         "irr": null,
         "bcr": 1.14,
         "paybackYear": 4,
-        "totalCost20yr": 137735.05,
+        "totalCost20yr": 130227.23,
         "totalBenefit20yr": 118421.06,
         "implCostY1": 2924.56,
         "maintenanceTotal": 127302.67,
@@ -21128,7 +21688,7 @@
           "ntfpRevenueTotal": 118421.06,
           "total": 118421.06
         },
-        "costTotal20yr": 137735.05,
+        "costTotal20yr": 130227.23,
         "benefitTotal20yr": 118421.06
       }
     },
@@ -22568,7 +23128,7 @@
         "irr": null,
         "bcr": 7.54,
         "paybackYear": 3,
-        "totalCost20yr": 878.62,
+        "totalCost20yr": 830.06,
         "totalBenefit20yr": 6122.66,
         "implCostY1": 285.83,
         "maintenanceTotal": 544.23,
@@ -22826,7 +23386,7 @@
           "ntfpRevenueTotal": 6122.66,
           "total": 6122.66
         },
-        "costTotal20yr": 878.62,
+        "costTotal20yr": 830.06,
         "benefitTotal20yr": 6122.66
       }
     },
@@ -22848,7 +23408,7 @@
         "irr": null,
         "bcr": 0.26,
         "paybackYear": null,
-        "totalCost20yr": 3624.03,
+        "totalCost20yr": 2904.03,
         "totalBenefit20yr": 872.0,
         "implCostY1": 600.0,
         "maintenanceTotal": 2304.03,
@@ -23130,7 +23690,7 @@
           "ntfpRevenueTotal": 872.0,
           "total": 872.0
         },
-        "costTotal20yr": 3624.03,
+        "costTotal20yr": 2904.03,
         "benefitTotal20yr": 872.0
       }
     },
@@ -48517,7 +49077,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 7528.13,
+        "totalCost20yr": 244.73,
         "totalBenefit20yr": 0.0,
         "implCostY1": 244.73,
         "maintenanceTotal": 0.0,
@@ -48762,7 +49322,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 7528.13,
+        "costTotal20yr": 244.73,
         "benefitTotal20yr": 0.0
       }
     },
@@ -48784,7 +49344,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 11474.94,
+        "totalCost20yr": 4191.54,
         "totalBenefit20yr": 0.0,
         "implCostY1": 4189.64,
         "maintenanceTotal": 1.9,
@@ -49036,7 +49596,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 11474.94,
+        "costTotal20yr": 4191.54,
         "benefitTotal20yr": 0.0
       }
     },
@@ -49058,7 +49618,7 @@
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
-        "totalCost20yr": 15216.9,
+        "totalCost20yr": 7689.59,
         "totalBenefit20yr": 0.0,
         "implCostY1": 3382.35,
         "maintenanceTotal": 4307.24,
@@ -49316,7 +49876,7 @@
           "ntfpRevenueTotal": 0.0,
           "total": 0.0
         },
-        "costTotal20yr": 15216.9,
+        "costTotal20yr": 7689.59,
         "benefitTotal20yr": 0.0
       }
     }

@@ -216,18 +216,29 @@ function populateDiscountSelect() {
   const rates = DATA.meta.discountRates || [0.03, 0.06, 0.08, 0.10, 0.12];
   discountRate = DATA.meta.discountRate || 0.06;
 
-  const sel = $("discountRateCompare");
-  sel.innerHTML = "";
-  for (const r of rates) {
-    const opt = document.createElement("option");
-    opt.value = r;
-    opt.textContent = fmtRate(r);
-    sel.appendChild(opt);
-  }
-  sel.value = String(discountRate);
-  sel.addEventListener("change", () => {
-    discountRate = parseFloat(sel.value);
+  const bindRateSelect = (sel, onChange) => {
+    sel.innerHTML = "";
+    for (const r of rates) {
+      const opt = document.createElement("option");
+      opt.value = r;
+      opt.textContent = fmtRate(r);
+      sel.appendChild(opt);
+    }
+    sel.value = String(discountRate);
+    sel.addEventListener("change", () => {
+      discountRate = parseFloat(sel.value);
+      const compareSel = $("discountRateCompare");
+      const evalSel = $("discountRateEval");
+      if (compareSel) compareSel.value = sel.value;
+      if (evalSel) evalSel.value = sel.value;
+      onChange();
+    });
+  };
+
+  bindRateSelect($("discountRateCompare"), () => refreshAll());
+  bindRateSelect($("discountRateEval"), () => {
     refreshAll();
+    renderConsultantEvalPanel();
   });
 }
 
@@ -694,23 +705,9 @@ function renderAvgCell(val, stats, fmt) {
   </td>`;
 }
 
-function renderDeltaPanel(primary) {
-  const el = $("deltaPanel");
-
-  if (!primary) {
-    el.innerHTML = "<p class=\"meta-line\">Select a consultant model to see deviation analysis.</p>";
-    return;
-  }
-
+function getDeltaMetricGroups() {
   const rateLabel = fmtRate(discountRate);
-  const methodPool = byMethod(DATA.records, methodFilter);
-  const ecoPool = byEcosystem(methodPool, primary.ecosystem);
-
-  const consultantName = consultantDisplayName(primary).slice(0, 80);
-  const ecoLabel = primary.ecosystem || "—";
-  const methodLabel = DATA.methodLabels[methodFilter] || methodFilter;
-
-  const rows = [
+  return [
     {
       section: "Economic indicators",
       items: [
@@ -739,6 +736,16 @@ function renderDeltaPanel(primary) {
       ],
     },
   ];
+}
+
+function buildDeltaTableHtml(primary) {
+  const methodPool = byMethod(DATA.records, primary.methodId);
+  const ecoPool = byEcosystem(methodPool, primary.ecosystem);
+
+  const consultantName = consultantDisplayName(primary).slice(0, 80);
+  const ecoLabel = primary.ecosystem || "—";
+  const methodLabel = DATA.methodLabels[primary.methodId] || primary.methodId;
+  const rows = getDeltaMetricGroups();
 
   let html = `<table class="delta-table"><thead><tr>
     <th>Metric</th>
@@ -764,7 +771,122 @@ function renderDeltaPanel(primary) {
   }
 
   html += `</tbody></table>`;
-  el.innerHTML = html;
+  return html;
+}
+
+function allConsultantPeople() {
+  const map = new Map();
+  for (const r of consultants(DATA.records)) {
+    const name = consultantDisplayName(r);
+    const key = name.trim().toLowerCase();
+    if (!map.has(key)) map.set(key, { name, key, models: [] });
+    map.get(key).models.push(r);
+  }
+  return [...map.values()].sort((a, b) => a.name.localeCompare(b.name));
+}
+
+function sortConsultantModels(models) {
+  return [...models].sort((a, b) => {
+    const countryCmp = (a.country || "").localeCompare(b.country || "");
+    if (countryCmp !== 0) return countryCmp;
+    const methodCmp = (a.methodId || "").localeCompare(b.methodId || "");
+    if (methodCmp !== 0) return methodCmp;
+    return (a.ecosystem || "").localeCompare(b.ecosystem || "");
+  });
+}
+
+function populateConsultantEvalSelect() {
+  const sel = $("selectConsultantEval");
+  const people = allConsultantPeople();
+  const previous = sel.value;
+
+  sel.innerHTML = "";
+  for (const person of people) {
+    const opt = document.createElement("option");
+    opt.value = person.key;
+    const suffix = person.models.length === 1 ? "model" : "models";
+    opt.textContent = `${person.name} (${person.models.length} ${suffix})`;
+    sel.appendChild(opt);
+  }
+
+  if (people.length) {
+    const stillValid = people.some((p) => p.key === previous);
+    sel.value = stillValid ? previous : people[0].key;
+  }
+}
+
+function renderConsultantEvalPanel() {
+  const el = $("consultantEvalPanel");
+  const people = allConsultantPeople();
+
+  if (!people.length) {
+    el.innerHTML = "<p class=\"meta-line\">No consultant questionnaires in the dataset.</p>";
+    return;
+  }
+
+  const key = $("selectConsultantEval").value || people[0].key;
+  const person = people.find((p) => p.key === key) || people[0];
+  const models = sortConsultantModels(person.models);
+
+  const blocks = models
+    .map((model) => {
+      const title = `${model.country || "—"} — ${methodAbbr(model.methodId)}`;
+      const subParts = [model.ecosystem || "—"];
+      if (model.respondent && model.respondent !== person.name) {
+        subParts.push(model.respondent);
+      }
+      if (model.sourceFile) subParts.push(model.sourceFile);
+
+      return `
+        <div class="consultant-model-delta">
+          <div class="consultant-model-delta-head">
+            <h3>${title}</h3>
+            <p class="meta-line">${subParts.join(" · ")}</p>
+          </div>
+          ${buildDeltaTableHtml(model)}
+        </div>`;
+    })
+    .join("");
+
+  el.innerHTML =
+    `<p class="consultant-eval-summary"><strong>${person.name}</strong> — ${models.length} submitted model${models.length === 1 ? "" : "s"}</p>` +
+    blocks;
+}
+
+function initTabs() {
+  const tabs = document.querySelectorAll(".app-tab");
+  const panels = {
+    dashboard: $("tabDashboard"),
+    "consultant-eval": $("tabConsultantEval"),
+  };
+
+  tabs.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const id = btn.dataset.tab;
+      tabs.forEach((tab) => {
+        const active = tab === btn;
+        tab.classList.toggle("active", active);
+        tab.setAttribute("aria-selected", active ? "true" : "false");
+      });
+      for (const [panelId, panel] of Object.entries(panels)) {
+        const active = panelId === id;
+        panel.hidden = !active;
+        panel.classList.toggle("active", active);
+      }
+      if (id === "consultant-eval") renderConsultantEvalPanel();
+    });
+  });
+}
+
+function renderDeltaPanel(primary) {
+  const el = $("deltaPanel");
+
+  if (!primary) {
+    el.innerHTML = "<p class=\"meta-line\">Select a consultant model to see deviation analysis.</p>";
+    return;
+  }
+
+  el.innerHTML = buildDeltaTableHtml(primary);
 }
 
 function refreshComparePanels() {
@@ -827,12 +949,16 @@ async function init() {
     populateMethodFilter();
     populateEcosystemFilters();
     populateDiscountSelect();
+    populateConsultantEvalSelect();
+    initTabs();
+    renderConsultantEvalPanel();
 
     $("selectPrimary").addEventListener("change", refreshComparePanels);
     $("selectCompare").addEventListener("change", refreshComparePanels);
     $("comparePool").addEventListener("change", refreshComparePanels);
     $("averageType").addEventListener("change", refreshComparePanels);
     $("averageEcoScope").addEventListener("change", refreshComparePanels);
+    $("selectConsultantEval").addEventListener("change", renderConsultantEvalPanel);
     $("contextVar").addEventListener("change", refreshContextChart);
 
     refreshContextChart();

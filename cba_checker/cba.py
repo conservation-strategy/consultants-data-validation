@@ -304,7 +304,7 @@ def compute_method_cba(method_id: str, method: dict[str, Any], data: dict[str, A
         irr=irr,
         bcr=bcr,
         payback_year=payback_year,
-        total_costs_20yr=sum(cf.total_cost for cf in cash_flows),
+        total_costs_20yr=sum(cf.impl_cost + cf.maint_cost for cf in cash_flows),
         total_benefits_20yr=sum(cf.total_benefit for cf in cash_flows),
         carbon_seq_rate=carbon_seq_rate,
         cost_per_tco2=None,
