@@ -12,6 +12,15 @@ from parser import parse_workbook
 
 LITERATURE_KEYWORDS = ("literature", "literatura", "review")
 
+# Generated artifacts that live in the data folder but must NOT be parsed as a
+# source (otherwise their rows would double-count every model).
+EXCLUDE_KEYWORDS = ("master database",)
+
+
+def _is_excluded_file(filename: str) -> bool:
+    lower = filename.lower()
+    return any(kw in lower for kw in EXCLUDE_KEYWORDS)
+
 
 def _detect_sheet_name(xl: pd.ExcelFile) -> str:
     for name in xl.sheet_names:
@@ -63,6 +72,8 @@ def load_all_from_directory(data_dir: Path) -> tuple[list[dict], list[dict]]:
         return consultant, literature
 
     for path in sorted(data_dir.glob("*.xlsx")):
+        if _is_excluded_file(path.name):
+            continue
         try:
             records = load_xlsx_file(path)
         except Exception as exc:
