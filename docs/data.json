@@ -10,7 +10,7 @@
     ],
     "timeHorizon": 20,
     "generatedFrom": "C:\\Users\\victo\\OneDrive\\Documentos\\Workstation\\Projetos\\(CSF) Calculadora da restauração\\15_consultants check",
-    "consultantCount": 24,
+    "consultantCount": 27,
     "literatureCount": 156
   },
   "methodLabels": {
@@ -3166,7 +3166,7 @@
       "country": "Mauritania",
       "continent": "Africa",
       "ecosystem": "Arid or Semi-Arid Zones",
-      "respondent": "Southern Mauritania Afforestation - Date Palm Tree",
+      "respondent": "Southern Mauritania Afforestation - Date Palm with Biochar",
       "userName": "El Hadji Beye",
       "consultantName": "El Hadji Beye",
       "methodId": "anr_30",
@@ -3445,14 +3445,330 @@
       }
     },
     {
-      "id": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx::1::seed_dispersal",
+      "id": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx::1::anr_30_ntfp",
+      "label": "El Hadji Beye · Mauritania · Arid or Semi-Arid Zones · ANR/50% Enrichment (NTFP)",
+      "sourceType": "consultant",
+      "sourceFile": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx",
+      "country": "Mauritania",
+      "continent": "Africa",
+      "ecosystem": "Arid or Semi-Arid Zones",
+      "respondent": "Southern Mauritania Afforestation - Date Palm with Biochar",
+      "userName": "El Hadji Beye",
+      "consultantName": "El Hadji Beye",
+      "methodId": "anr_30_ntfp",
+      "methodLabel": "ANR/50% Enrichment (NTFP)",
+      "kpis": {
+        "npv": 141792.86,
+        "irr": 45.6,
+        "bcr": 5.84,
+        "paybackYear": 7,
+        "totalCost20yr": 41758.0,
+        "totalBenefit20yr": 347840.0,
+        "implCostY1": 6978.0,
+        "maintenanceTotal": 34780.0,
+        "ntfpRevenueTotal": 347840.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": 204568.52
+        },
+        {
+          "rate": 0.06,
+          "npv": 141792.86
+        },
+        {
+          "rate": 0.08,
+          "npv": 112168.33
+        },
+        {
+          "rate": 0.1,
+          "npv": 89360.42
+        },
+        {
+          "rate": 0.12,
+          "npv": 71631.63
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 6978.0,
+          "maintCost": 0.0,
+          "constraintCost": 894.95,
+          "totalCost": 7872.95,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -7872.95
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 1150.0,
+          "constraintCost": 210.74,
+          "totalCost": 1360.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1339.26
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 1150.0,
+          "constraintCost": 210.74,
+          "totalCost": 1360.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1339.26
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 1150.0,
+          "constraintCost": 210.74,
+          "totalCost": 1360.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1339.26
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 1150.0,
+          "constraintCost": 210.74,
+          "totalCost": 1360.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1339.26
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 1150.0,
+          "constraintCost": 210.74,
+          "totalCost": 1360.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1339.26
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 1840.0,
+          "constraintCost": 210.74,
+          "totalCost": 2050.74,
+          "ntfpRevenue": 14357.0,
+          "totalBenefit": 14357.0,
+          "netFlow": 12306.26
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 1840.0,
+          "constraintCost": 210.74,
+          "totalCost": 2050.74,
+          "ntfpRevenue": 14357.0,
+          "totalBenefit": 14357.0,
+          "netFlow": 12306.26
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 1840.0,
+          "constraintCost": 210.74,
+          "totalCost": 2050.74,
+          "ntfpRevenue": 14357.0,
+          "totalBenefit": 14357.0,
+          "netFlow": 12306.26
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 1910.0,
+          "constraintCost": 210.74,
+          "totalCost": 2120.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24358.26
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 2160.0,
+          "constraintCost": 210.74,
+          "totalCost": 2370.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24108.26
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 2160.0,
+          "constraintCost": 210.74,
+          "totalCost": 2370.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24108.26
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 2160.0,
+          "constraintCost": 210.74,
+          "totalCost": 2370.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24108.26
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 2160.0,
+          "constraintCost": 210.74,
+          "totalCost": 2370.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24108.26
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 2160.0,
+          "constraintCost": 210.74,
+          "totalCost": 2370.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24108.26
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 2160.0,
+          "constraintCost": 210.74,
+          "totalCost": 2370.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24108.26
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 2160.0,
+          "constraintCost": 210.74,
+          "totalCost": 2370.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24108.26
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 2160.0,
+          "constraintCost": 210.74,
+          "totalCost": 2370.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24108.26
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 2160.0,
+          "constraintCost": 210.74,
+          "totalCost": 2370.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24108.26
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 2160.0,
+          "constraintCost": 210.74,
+          "totalCost": 2370.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24108.26
+        }
+      ],
+      "detail": {
+        "implementationY1": 6978.0,
+        "maintenanceTotal": 34780.0,
+        "constraints": {
+          "firebreak": 758.94,
+          "fencing": 1000.0,
+          "weedControl": 1400.0,
+          "pestControl": 1740.0,
+          "total": 4898.94
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 20,
+            "annualCost": 400.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 2,
+            "yearTo": 6,
+            "annualCost": 360.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 7,
+            "yearTo": 10,
+            "annualCost": 570.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 11,
+            "yearTo": 20,
+            "annualCost": 820.0
+          },
+          {
+            "label": "Harvest",
+            "yearFrom": 7,
+            "yearTo": 9,
+            "annualCost": 480.0
+          },
+          {
+            "label": "Harvest",
+            "yearFrom": 10,
+            "yearTo": 20,
+            "annualCost": 550.0
+          },
+          {
+            "label": "Technical assistance",
+            "yearFrom": 2,
+            "yearTo": 20,
+            "annualCost": 205.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 2,
+            "yearTo": 20,
+            "annualCost": 185.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 347840.0,
+          "total": 347840.0
+        },
+        "costTotal20yr": 41758.0,
+        "benefitTotal20yr": 347840.0
+      }
+    },
+    {
+      "id": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx::2::seed_dispersal",
       "label": "El Hadji Beye · Mauritania · Arid or Semi-Arid Zones · Seed Dispersal",
       "sourceType": "consultant",
       "sourceFile": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx",
       "country": "Mauritania",
       "continent": "Africa",
       "ecosystem": "Arid or Semi-Arid Zones",
-      "respondent": "Southern Mauritania Afforestation - Date Palm Tree",
+      "respondent": "Southern Mauritania Afforestation - Date Palm with Biochar",
       "userName": "El Hadji Beye",
       "consultantName": "El Hadji Beye",
       "methodId": "seed_dispersal",
@@ -3731,14 +4047,330 @@
       }
     },
     {
-      "id": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx::2::seedling_planting",
+      "id": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx::3::seed_dispersal_ntfp",
+      "label": "El Hadji Beye · Mauritania · Arid or Semi-Arid Zones · Seed Dispersal (NTFP)",
+      "sourceType": "consultant",
+      "sourceFile": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx",
+      "country": "Mauritania",
+      "continent": "Africa",
+      "ecosystem": "Arid or Semi-Arid Zones",
+      "respondent": "Southern Mauritania Afforestation - Date Palm with Biochar",
+      "userName": "El Hadji Beye",
+      "consultantName": "El Hadji Beye",
+      "methodId": "seed_dispersal_ntfp",
+      "methodLabel": "Seed Dispersal (NTFP)",
+      "kpis": {
+        "npv": 142898.49,
+        "irr": 43.7,
+        "bcr": 5.96,
+        "paybackYear": 7,
+        "totalCost20yr": 40549.0,
+        "totalBenefit20yr": 348824.0,
+        "implCostY1": 8287.0,
+        "maintenanceTotal": 32262.0,
+        "ntfpRevenueTotal": 348824.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": 206144.16
+        },
+        {
+          "rate": 0.06,
+          "npv": 142898.49
+        },
+        {
+          "rate": 0.08,
+          "npv": 113020.79
+        },
+        {
+          "rate": 0.1,
+          "npv": 89997.1
+        },
+        {
+          "rate": 0.12,
+          "npv": 72083.09
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 8287.0,
+          "maintCost": 0.0,
+          "constraintCost": 894.95,
+          "totalCost": 9181.95,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -9181.95
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 928.0,
+          "constraintCost": 210.74,
+          "totalCost": 1138.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1561.26
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 928.0,
+          "constraintCost": 210.74,
+          "totalCost": 1138.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1561.26
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 928.0,
+          "constraintCost": 210.74,
+          "totalCost": 1138.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1561.26
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 928.0,
+          "constraintCost": 210.74,
+          "totalCost": 1138.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1561.26
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 1173.0,
+          "constraintCost": 210.74,
+          "totalCost": 1383.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1316.26
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 1378.0,
+          "constraintCost": 210.74,
+          "totalCost": 1588.74,
+          "ntfpRevenue": 14685.0,
+          "totalBenefit": 14685.0,
+          "netFlow": 13096.26
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 1378.0,
+          "constraintCost": 210.74,
+          "totalCost": 1588.74,
+          "ntfpRevenue": 14685.0,
+          "totalBenefit": 14685.0,
+          "netFlow": 13096.26
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 1378.0,
+          "constraintCost": 210.74,
+          "totalCost": 1588.74,
+          "ntfpRevenue": 14685.0,
+          "totalBenefit": 14685.0,
+          "netFlow": 13096.26
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 2113.0,
+          "constraintCost": 210.74,
+          "totalCost": 2323.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24155.26
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 2113.0,
+          "constraintCost": 210.74,
+          "totalCost": 2323.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24155.26
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 2113.0,
+          "constraintCost": 210.74,
+          "totalCost": 2323.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24155.26
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 2113.0,
+          "constraintCost": 210.74,
+          "totalCost": 2323.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24155.26
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 2113.0,
+          "constraintCost": 210.74,
+          "totalCost": 2323.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24155.26
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 2113.0,
+          "constraintCost": 210.74,
+          "totalCost": 2323.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24155.26
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 2113.0,
+          "constraintCost": 210.74,
+          "totalCost": 2323.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24155.26
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 2113.0,
+          "constraintCost": 210.74,
+          "totalCost": 2323.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24155.26
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 2113.0,
+          "constraintCost": 210.74,
+          "totalCost": 2323.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24155.26
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 2113.0,
+          "constraintCost": 210.74,
+          "totalCost": 2323.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24155.26
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 2113.0,
+          "constraintCost": 210.74,
+          "totalCost": 2323.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24155.26
+        }
+      ],
+      "detail": {
+        "implementationY1": 8287.0,
+        "maintenanceTotal": 32262.0,
+        "constraints": {
+          "firebreak": 758.94,
+          "fencing": 1000.0,
+          "weedControl": 1400.0,
+          "pestControl": 1740.0,
+          "total": 4898.94
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 20,
+            "annualCost": 400.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 2,
+            "yearTo": 6,
+            "annualCost": 185.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 7,
+            "yearTo": 9,
+            "annualCost": 390.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 10,
+            "yearTo": 20,
+            "annualCost": 820.0
+          },
+          {
+            "label": "Harvest",
+            "yearFrom": 6,
+            "yearTo": 9,
+            "annualCost": 245.0
+          },
+          {
+            "label": "Harvest",
+            "yearFrom": 10,
+            "yearTo": 20,
+            "annualCost": 550.0
+          },
+          {
+            "label": "Technical assistance",
+            "yearFrom": 2,
+            "yearTo": 20,
+            "annualCost": 119.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 2,
+            "yearTo": 20,
+            "annualCost": 224.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 348824.0,
+          "total": 348824.0
+        },
+        "costTotal20yr": 40549.0,
+        "benefitTotal20yr": 348824.0
+      }
+    },
+    {
+      "id": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx::4::seedling_planting",
       "label": "El Hadji Beye · Mauritania · Arid or Semi-Arid Zones · Full Seedling Plantation",
       "sourceType": "consultant",
       "sourceFile": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx",
       "country": "Mauritania",
       "continent": "Africa",
       "ecosystem": "Arid or Semi-Arid Zones",
-      "respondent": "Southern Mauritania Afforestation - Date Palm Tree",
+      "respondent": "Southern Mauritania Afforestation - Date Palm with Biochar",
       "userName": "El Hadji Beye",
       "consultantName": "El Hadji Beye",
       "methodId": "seedling_planting",
@@ -4017,10 +4649,326 @@
       }
     },
     {
-      "id": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx::3::anr_30_ntfp",
-      "label": "El Hadji Beye · Mauritania · Arid or Semi-Arid Zones · ANR/50% Enrichment (NTFP)",
+      "id": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx::5::seedling_planting_ntfp",
+      "label": "El Hadji Beye · Mauritania · Arid or Semi-Arid Zones · Full Seedling Plantation (NTFP)",
       "sourceType": "consultant",
       "sourceFile": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx",
+      "country": "Mauritania",
+      "continent": "Africa",
+      "ecosystem": "Arid or Semi-Arid Zones",
+      "respondent": "Southern Mauritania Afforestation - Date Palm with Biochar",
+      "userName": "El Hadji Beye",
+      "consultantName": "El Hadji Beye",
+      "methodId": "seedling_planting_ntfp",
+      "methodLabel": "Full Seedling Plantation (NTFP)",
+      "kpis": {
+        "npv": 142782.44,
+        "irr": 39.9,
+        "bcr": 5.37,
+        "paybackYear": 7,
+        "totalCost20yr": 45225.0,
+        "totalBenefit20yr": 354404.0,
+        "implCostY1": 10075.0,
+        "maintenanceTotal": 35150.0,
+        "ntfpRevenueTotal": 354404.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": 206485.12
+        },
+        {
+          "rate": 0.06,
+          "npv": 142782.44
+        },
+        {
+          "rate": 0.08,
+          "npv": 112650.07
+        },
+        {
+          "rate": 0.1,
+          "npv": 89405.93
+        },
+        {
+          "rate": 0.12,
+          "npv": 71301.23
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 10075.0,
+          "maintCost": 0.0,
+          "constraintCost": 894.95,
+          "totalCost": 10969.95,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -10969.95
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 1150.0,
+          "constraintCost": 210.74,
+          "totalCost": 1360.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1339.26
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 1150.0,
+          "constraintCost": 210.74,
+          "totalCost": 1360.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1339.26
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 1150.0,
+          "constraintCost": 210.74,
+          "totalCost": 1360.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1339.26
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 1150.0,
+          "constraintCost": 210.74,
+          "totalCost": 1360.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 1339.26
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 1545.0,
+          "constraintCost": 210.74,
+          "totalCost": 1755.74,
+          "ntfpRevenue": 2700.0,
+          "totalBenefit": 2700.0,
+          "netFlow": 944.26
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 1785.0,
+          "constraintCost": 210.74,
+          "totalCost": 1995.74,
+          "ntfpRevenue": 16545.0,
+          "totalBenefit": 16545.0,
+          "netFlow": 14549.26
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 1785.0,
+          "constraintCost": 210.74,
+          "totalCost": 1995.74,
+          "ntfpRevenue": 16545.0,
+          "totalBenefit": 16545.0,
+          "netFlow": 14549.26
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 1785.0,
+          "constraintCost": 210.74,
+          "totalCost": 1995.74,
+          "ntfpRevenue": 16545.0,
+          "totalBenefit": 16545.0,
+          "netFlow": 14549.26
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 2150.0,
+          "constraintCost": 210.74,
+          "totalCost": 2360.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24118.26
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 2150.0,
+          "constraintCost": 210.74,
+          "totalCost": 2360.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24118.26
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 2150.0,
+          "constraintCost": 210.74,
+          "totalCost": 2360.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24118.26
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 2150.0,
+          "constraintCost": 210.74,
+          "totalCost": 2360.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24118.26
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 2150.0,
+          "constraintCost": 210.74,
+          "totalCost": 2360.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24118.26
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 2150.0,
+          "constraintCost": 210.74,
+          "totalCost": 2360.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24118.26
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 2150.0,
+          "constraintCost": 210.74,
+          "totalCost": 2360.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24118.26
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 2150.0,
+          "constraintCost": 210.74,
+          "totalCost": 2360.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24118.26
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 2150.0,
+          "constraintCost": 210.74,
+          "totalCost": 2360.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24118.26
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 2150.0,
+          "constraintCost": 210.74,
+          "totalCost": 2360.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24118.26
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 2150.0,
+          "constraintCost": 210.74,
+          "totalCost": 2360.74,
+          "ntfpRevenue": 26479.0,
+          "totalBenefit": 26479.0,
+          "netFlow": 24118.26
+        }
+      ],
+      "detail": {
+        "implementationY1": 10075.0,
+        "maintenanceTotal": 35150.0,
+        "constraints": {
+          "firebreak": 758.94,
+          "fencing": 1000.0,
+          "weedControl": 1400.0,
+          "pestControl": 1740.0,
+          "total": 4898.94
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 20,
+            "annualCost": 400.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 2,
+            "yearTo": 6,
+            "annualCost": 370.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 7,
+            "yearTo": 9,
+            "annualCost": 610.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 10,
+            "yearTo": 20,
+            "annualCost": 820.0
+          },
+          {
+            "label": "Harvest",
+            "yearFrom": 6,
+            "yearTo": 9,
+            "annualCost": 395.0
+          },
+          {
+            "label": "Harvest",
+            "yearFrom": 10,
+            "yearTo": 20,
+            "annualCost": 550.0
+          },
+          {
+            "label": "Technical assistance",
+            "yearFrom": 2,
+            "yearTo": 20,
+            "annualCost": 215.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 2,
+            "yearTo": 20,
+            "annualCost": 165.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 354404.0,
+          "total": 354404.0
+        },
+        "costTotal20yr": 45225.0,
+        "benefitTotal20yr": 354404.0
+      }
+    },
+    {
+      "id": "restoration_Mauritania_El_Hadji_Beye_2026-06-15_Date_Palm_Tree_NTFP.xlsx::0::anr_30_ntfp",
+      "label": "El Hadji Beye · Mauritania · Arid or Semi-Arid Zones · ANR/50% Enrichment (NTFP)",
+      "sourceType": "consultant",
+      "sourceFile": "restoration_Mauritania_El_Hadji_Beye_2026-06-15_Date_Palm_Tree_NTFP.xlsx",
       "country": "Mauritania",
       "continent": "Africa",
       "ecosystem": "Arid or Semi-Arid Zones",
@@ -4327,10 +5275,10 @@
       }
     },
     {
-      "id": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx::4::seed_dispersal_ntfp",
+      "id": "restoration_Mauritania_El_Hadji_Beye_2026-06-15_Date_Palm_Tree_NTFP.xlsx::1::seed_dispersal_ntfp",
       "label": "El Hadji Beye · Mauritania · Arid or Semi-Arid Zones · Seed Dispersal (NTFP)",
       "sourceType": "consultant",
-      "sourceFile": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx",
+      "sourceFile": "restoration_Mauritania_El_Hadji_Beye_2026-06-15_Date_Palm_Tree_NTFP.xlsx",
       "country": "Mauritania",
       "continent": "Africa",
       "ecosystem": "Arid or Semi-Arid Zones",
@@ -4637,10 +5585,10 @@
       }
     },
     {
-      "id": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx::5::seedling_planting_ntfp",
+      "id": "restoration_Mauritania_El_Hadji_Beye_2026-06-15_Date_Palm_Tree_NTFP.xlsx::2::seedling_planting_ntfp",
       "label": "El Hadji Beye · Mauritania · Arid or Semi-Arid Zones · Full Seedling Plantation (NTFP)",
       "sourceType": "consultant",
-      "sourceFile": "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx",
+      "sourceFile": "restoration_Mauritania_El_Hadji_Beye_2026-06-15_Date_Palm_Tree_NTFP.xlsx",
       "country": "Mauritania",
       "continent": "Africa",
       "ecosystem": "Arid or Semi-Arid Zones",
