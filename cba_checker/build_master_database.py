@@ -18,7 +18,10 @@ from parser import _num, normalize_method_id
 
 ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT.parent
-CANONICAL_FILE = DATA_DIR / "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx"
+CANONICAL_FILE = DATA_DIR / (
+    "(Hadji_Arid) restoration_Arid_or_Semi-Arid_Zones_Full_Seedling_Plantation_"
+    "NTFP_(agroforestry)_2026-06-29-16-56-10.xlsx"
+)
 OUT_PATH = DATA_DIR / "Consultants Data Validation - Master Database.xlsx"
 
 
