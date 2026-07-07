@@ -8,7 +8,9 @@ from pathlib import Path
 
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parent.parent
+from loader import MODELS_DIR
+
+ROOT = MODELS_DIR
 
 
 def update_gabriela() -> None:

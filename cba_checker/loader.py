@@ -2,13 +2,16 @@
 
 from __future__ import annotations
 
-import os
 from pathlib import Path
 
 import pandas as pd
 
 from geo import get_continent
 from parser import parse_workbook
+
+ROOT = Path(__file__).resolve().parent
+PROJECT_DIR = ROOT.parent
+MODELS_DIR = PROJECT_DIR / "models"
 
 LITERATURE_KEYWORDS = ("literature", "literatura", "review")
 
@@ -63,8 +66,9 @@ def _format_label(rec: dict) -> str:
     return " · ".join(parts)
 
 
-def load_all_from_directory(data_dir: Path) -> tuple[list[dict], list[dict]]:
-    """Return (consultant_records, literature_records)."""
+def load_all_from_directory(data_dir: Path | None = None) -> tuple[list[dict], list[dict]]:
+    """Return (consultant_records, literature_records) from the models folder."""
+    data_dir = data_dir or MODELS_DIR
     consultant: list[dict] = []
     literature: list[dict] = []
 

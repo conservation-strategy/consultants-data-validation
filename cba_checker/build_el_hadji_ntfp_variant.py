@@ -13,10 +13,14 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parent
-BIOCHAR_SOURCE = ROOT.parent / "restoration_Mauritania_El_Hadji_Beye_2026-06-15.xlsx"
+from loader import MODELS_DIR, PROJECT_DIR
+
+BIOCHAR_SOURCE = MODELS_DIR / (
+    "(Hadji_Arid) restoration_Arid_or_Semi-Arid_Zones_Full_Seedling_Plantation_"
+    "NTFP_(agroforestry)_2026-07-04-01-05-58.xlsx"
+)
 NTFP_ONLY_OUT = (
-    ROOT.parent
+    PROJECT_DIR
     / "restoration_Mauritania_El_Hadji_Beye_2026-06-15_Date_Palm_Tree_NTFP.xlsx"
 )
 

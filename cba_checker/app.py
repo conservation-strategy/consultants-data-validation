@@ -25,7 +25,7 @@ if str(ROOT) not in sys.path:
 
 from cba import DEFAULT_DISCOUNT_RATE, cba_summary_dict, compute_method_cba  # noqa: E402
 from geo import get_continent  # noqa: E402
-from loader import filter_comparables, group_consultant_files, load_all_from_directory, load_xlsx_file  # noqa: E402
+from loader import MODELS_DIR, filter_comparables, group_consultant_files, load_all_from_directory, load_xlsx_file  # noqa: E402
 from validation import validate_record  # noqa: E402
 
 st.set_page_config(
@@ -34,7 +34,7 @@ st.set_page_config(
     layout="wide",
 )
 
-DATA_DIR = PARENT
+DATA_DIR = MODELS_DIR
 
 
 @st.cache_data(show_spinner="Carregando planilhas…")

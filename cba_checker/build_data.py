@@ -7,10 +7,9 @@ from pathlib import Path
 from typing import Any
 
 from cba import DEFAULT_DISCOUNT_RATE, METHOD_LABELS, cba_summary_dict, compute_method_cba
-from loader import load_all_from_directory
+from loader import MODELS_DIR, load_all_from_directory
 
 ROOT = Path(__file__).resolve().parent
-DATA_DIR = ROOT.parent
 OUT_PATH = ROOT / "web" / "data.json"
 
 
@@ -160,7 +159,7 @@ def enrich_record(record: dict[str, Any]) -> dict[str, Any]:
 
 
 def build(data_dir: Path | None = None) -> dict[str, Any]:
-    data_dir = data_dir or DATA_DIR
+    data_dir = data_dir or MODELS_DIR
     consultant, literature = load_all_from_directory(data_dir)
 
     all_records = consultant + literature

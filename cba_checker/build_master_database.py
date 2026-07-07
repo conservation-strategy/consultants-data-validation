@@ -13,16 +13,14 @@ from pathlib import Path
 
 import pandas as pd
 
-from loader import _detect_sheet_name, _is_excluded_file
+from loader import MODELS_DIR, PROJECT_DIR, _detect_sheet_name, _is_excluded_file
 from parser import _num, normalize_method_id
 
-ROOT = Path(__file__).resolve().parent
-DATA_DIR = ROOT.parent
-CANONICAL_FILE = DATA_DIR / (
+CANONICAL_FILE = MODELS_DIR / (
     "(Hadji_Arid) restoration_Arid_or_Semi-Arid_Zones_Full_Seedling_Plantation_"
     "NTFP_(agroforestry)_2026-07-04-01-05-58.xlsx"
 )
-OUT_PATH = DATA_DIR / "Consultants Data Validation - Master Database.xlsx"
+OUT_PATH = PROJECT_DIR / "Consultants Data Validation - Master Database.xlsx"
 
 
 def _valid_rows(df: pd.DataFrame) -> list[pd.Series]:
@@ -48,7 +46,7 @@ def build_master() -> int:
         meta = None
 
     collected: list[pd.Series] = []
-    for path in sorted(DATA_DIR.glob("*.xlsx")):
+    for path in sorted(MODELS_DIR.glob("*.xlsx")):
         if _is_excluded_file(path.name) or path.resolve() == OUT_PATH.resolve():
             continue
         try:
