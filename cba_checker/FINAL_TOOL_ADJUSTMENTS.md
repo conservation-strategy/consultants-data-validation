@@ -106,7 +106,7 @@ Uzbekistan was added to the country–continent map (`geo.py`). Active files are
 - NTFP revenues cut sharply (hectare normalization of the peak orchard rates that inflated NPV/BCR).
 - Mountain `seed_dispersal_ntfp` now has revenue segments (was empty in v1).
 - `HiredLaborCost_USD_day = 8` and `MachineryUnitCost_USD_hr = 240` filled (were 0). Note: 240 matches the report’s tractor **USD/ha** plow rate, not a true hourly machine rate.
-- Maintenance (especially monitoring / guard-like annual lines) increased a lot; 20-year costs rose.
+- Maintenance in the raw v2 submission inflated monitoring/guard lines a lot. For the tool base we **restored v1 maintenance segments** onto the v2 workbooks (`restore_edward_v2_maint.py`), keeping v2 revenues and other fields.
 - Context constraints (fire / fence / weed / pest unit costs) remain **zero**.
 - Mountain GPS still incomplete in v2 (`39.1333,` without longitude). Comparison detail: `cba_checker/edward_v2_comparison.txt`.
 
