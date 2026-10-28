@@ -51,6 +51,7 @@ CONTINENT_BY_COUNTRY: dict[str, str] = {
     "Laos": "Asia",
     "Malaysia": "Asia",
     "Sri Lanka": "Asia",
+    "Uzbekistan": "Asia",
     # Europe
     "Portugal": "Europe",
     "Spain": "Europe",

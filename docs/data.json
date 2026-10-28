@@ -10,7 +10,7 @@
     ],
     "timeHorizon": 20,
     "generatedFrom": "C:\\Users\\victo\\OneDrive\\Documentos\\Workstation\\Projetos\\(CSF) Calculadora da restauração\\15_consultants check\\models",
-    "consultantCount": 76,
+    "consultantCount": 87,
     "literatureCount": 156
   },
   "methodLabels": {
@@ -30,6 +30,3396 @@
     "seed_dispersal_ntfp"
   ],
   "records": [
+    {
+      "id": "(Edward_v2) Arid Ecosystem 2026-10-22-01-52-49.xlsx::0::anr_30",
+      "label": "Edward Valencia Maningo · Uzbekistan · Arid or Semi-Arid Zones · ANR/50% Enrichment",
+      "sourceType": "consultant",
+      "sourceFile": "(Edward_v2) Arid Ecosystem 2026-10-22-01-52-49.xlsx",
+      "country": "Uzbekistan",
+      "continent": "Asia",
+      "ecosystem": "Arid or Semi-Arid Zones",
+      "respondent": "Edward Valencia Maningo",
+      "userName": "Edward Valencia Maningo",
+      "consultantName": "Edward Valencia Maningo",
+      "methodId": "anr_30",
+      "methodLabel": "ANR/50% Enrichment",
+      "kpis": {
+        "npv": -8014.74,
+        "irr": null,
+        "bcr": 0.0,
+        "paybackYear": null,
+        "totalCost20yr": 13359.99,
+        "totalBenefit20yr": 0.0,
+        "implCostY1": 163.99,
+        "maintenanceTotal": 13196.0,
+        "ntfpRevenueTotal": 0.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": -10175.18
+        },
+        {
+          "rate": 0.06,
+          "npv": -8014.74
+        },
+        {
+          "rate": 0.08,
+          "npv": -6951.68
+        },
+        {
+          "rate": 0.1,
+          "npv": -6103.08
+        },
+        {
+          "rate": 0.12,
+          "npv": -5417.22
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 163.99,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 163.99,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -163.99
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 788.0,
+          "constraintCost": 0.0,
+          "totalCost": 788.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -788.0
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 788.0,
+          "constraintCost": 0.0,
+          "totalCost": 788.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -788.0
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 788.0,
+          "constraintCost": 0.0,
+          "totalCost": 788.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -788.0
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 677.0,
+          "constraintCost": 0.0,
+          "totalCost": 677.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -677.0
+        }
+      ],
+      "detail": {
+        "implementationY1": 163.99,
+        "maintenanceTotal": 13196.0,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 0,
+          "pestControl": 0,
+          "total": 0.0
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 111.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 1,
+            "yearTo": 20,
+            "annualCost": 677.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 0.0,
+          "total": 0.0
+        },
+        "costTotal20yr": 13359.99,
+        "benefitTotal20yr": 0.0
+      }
+    },
+    {
+      "id": "(Edward_v2) Arid Ecosystem 2026-10-22-01-52-49.xlsx::1::anr_30_ntfp",
+      "label": "Edward Valencia Maningo · Uzbekistan · Arid or Semi-Arid Zones · ANR/50% Enrichment (NTFP)",
+      "sourceType": "consultant",
+      "sourceFile": "(Edward_v2) Arid Ecosystem 2026-10-22-01-52-49.xlsx",
+      "country": "Uzbekistan",
+      "continent": "Asia",
+      "ecosystem": "Arid or Semi-Arid Zones",
+      "respondent": "Edward Valencia Maningo",
+      "userName": "Edward Valencia Maningo",
+      "consultantName": "Edward Valencia Maningo",
+      "methodId": "anr_30_ntfp",
+      "methodLabel": "ANR/50% Enrichment (NTFP)",
+      "kpis": {
+        "npv": -3127.15,
+        "irr": null,
+        "bcr": 0.11,
+        "paybackYear": null,
+        "totalCost20yr": 4763.99,
+        "totalBenefit20yr": 665.0,
+        "implCostY1": 847.99,
+        "maintenanceTotal": 3916.0,
+        "ntfpRevenueTotal": 665.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": -3529.05
+        },
+        {
+          "rate": 0.06,
+          "npv": -3127.15
+        },
+        {
+          "rate": 0.08,
+          "npv": -2921.88
+        },
+        {
+          "rate": 0.1,
+          "npv": -2752.7
+        },
+        {
+          "rate": 0.12,
+          "npv": -2611.27
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 847.99,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 847.99,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -847.99
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 548.0,
+          "constraintCost": 0.0,
+          "totalCost": 548.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -513.0
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 548.0,
+          "constraintCost": 0.0,
+          "totalCost": 548.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -513.0
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 548.0,
+          "constraintCost": 0.0,
+          "totalCost": 548.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -513.0
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 142.0,
+          "constraintCost": 0.0,
+          "totalCost": 142.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -107.0
+        }
+      ],
+      "detail": {
+        "implementationY1": 847.99,
+        "maintenanceTotal": 3916.0,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 0,
+          "pestControl": 0,
+          "total": 0.0
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 246.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 160.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 1,
+            "yearTo": 20,
+            "annualCost": 142.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 665.0,
+          "total": 665.0
+        },
+        "costTotal20yr": 4763.99,
+        "benefitTotal20yr": 665.0
+      }
+    },
+    {
+      "id": "(Edward_v2) Arid Ecosystem 2026-10-22-01-52-49.xlsx::2::seed_dispersal",
+      "label": "Edward Valencia Maningo · Uzbekistan · Arid or Semi-Arid Zones · Seed Dispersal",
+      "sourceType": "consultant",
+      "sourceFile": "(Edward_v2) Arid Ecosystem 2026-10-22-01-52-49.xlsx",
+      "country": "Uzbekistan",
+      "continent": "Asia",
+      "ecosystem": "Arid or Semi-Arid Zones",
+      "respondent": "Edward Valencia Maningo",
+      "userName": "Edward Valencia Maningo",
+      "consultantName": "Edward Valencia Maningo",
+      "methodId": "seed_dispersal",
+      "methodLabel": "Seed Dispersal",
+      "kpis": {
+        "npv": -1328.45,
+        "irr": null,
+        "bcr": 0.0,
+        "paybackYear": null,
+        "totalCost20yr": 1620.0,
+        "totalBenefit20yr": 0.0,
+        "implCostY1": 110.0,
+        "maintenanceTotal": 1510.0,
+        "ntfpRevenueTotal": 0.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": -1454.74
+        },
+        {
+          "rate": 0.06,
+          "npv": -1328.45
+        },
+        {
+          "rate": 0.08,
+          "npv": -1259.34
+        },
+        {
+          "rate": 0.1,
+          "npv": -1199.24
+        },
+        {
+          "rate": 0.12,
+          "npv": -1146.31
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 110.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 110.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -110.0
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 386.0,
+          "constraintCost": 0.0,
+          "totalCost": 386.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -386.0
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 386.0,
+          "constraintCost": 0.0,
+          "totalCost": 386.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -386.0
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 386.0,
+          "constraintCost": 0.0,
+          "totalCost": 386.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -386.0
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        }
+      ],
+      "detail": {
+        "implementationY1": 110.0,
+        "maintenanceTotal": 1510.0,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 0,
+          "pestControl": 0,
+          "total": 0.0
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 364.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 1,
+            "yearTo": 20,
+            "annualCost": 22.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 0.0,
+          "total": 0.0
+        },
+        "costTotal20yr": 1620.0,
+        "benefitTotal20yr": 0.0
+      }
+    },
+    {
+      "id": "(Edward_v2) Arid Ecosystem 2026-10-22-01-52-49.xlsx::3::seed_dispersal_ntfp",
+      "label": "Edward Valencia Maningo · Uzbekistan · Arid or Semi-Arid Zones · Seed Dispersal (NTFP)",
+      "sourceType": "consultant",
+      "sourceFile": "(Edward_v2) Arid Ecosystem 2026-10-22-01-52-49.xlsx",
+      "country": "Uzbekistan",
+      "continent": "Asia",
+      "ecosystem": "Arid or Semi-Arid Zones",
+      "respondent": "Edward Valencia Maningo",
+      "userName": "Edward Valencia Maningo",
+      "consultantName": "Edward Valencia Maningo",
+      "methodId": "seed_dispersal_ntfp",
+      "methodLabel": "Seed Dispersal (NTFP)",
+      "kpis": {
+        "npv": -2071.61,
+        "irr": null,
+        "bcr": 0.11,
+        "paybackYear": null,
+        "totalCost20yr": 3039.0,
+        "totalBenefit20yr": 429.0,
+        "implCostY1": 266.0,
+        "maintenanceTotal": 2773.0,
+        "ntfpRevenueTotal": 429.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": -2300.07
+        },
+        {
+          "rate": 0.06,
+          "npv": -2071.61
+        },
+        {
+          "rate": 0.08,
+          "npv": -1950.24
+        },
+        {
+          "rate": 0.1,
+          "npv": -1847.02
+        },
+        {
+          "rate": 0.12,
+          "npv": -1758.01
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 266.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 266.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -266.0
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 535.0,
+          "constraintCost": 0.0,
+          "totalCost": 535.0,
+          "ntfpRevenue": 12.0,
+          "totalBenefit": 12.0,
+          "netFlow": -523.0
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 535.0,
+          "constraintCost": 0.0,
+          "totalCost": 535.0,
+          "ntfpRevenue": 19.0,
+          "totalBenefit": 19.0,
+          "netFlow": -516.0
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 535.0,
+          "constraintCost": 0.0,
+          "totalCost": 535.0,
+          "ntfpRevenue": 19.0,
+          "totalBenefit": 19.0,
+          "netFlow": -516.0
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 19.0,
+          "totalBenefit": 19.0,
+          "netFlow": -54.0
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -49.0
+        }
+      ],
+      "detail": {
+        "implementationY1": 266.0,
+        "maintenanceTotal": 2773.0,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 0,
+          "pestControl": 0,
+          "total": 0.0
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 231.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 231.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 1,
+            "yearTo": 20,
+            "annualCost": 73.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 429.0,
+          "total": 429.0
+        },
+        "costTotal20yr": 3039.0,
+        "benefitTotal20yr": 429.0
+      }
+    },
+    {
+      "id": "(Edward_v2) Arid Ecosystem 2026-10-22-01-52-49.xlsx::4::seedling_planting",
+      "label": "Edward Valencia Maningo · Uzbekistan · Arid or Semi-Arid Zones · Full Seedling Plantation",
+      "sourceType": "consultant",
+      "sourceFile": "(Edward_v2) Arid Ecosystem 2026-10-22-01-52-49.xlsx",
+      "country": "Uzbekistan",
+      "continent": "Asia",
+      "ecosystem": "Arid or Semi-Arid Zones",
+      "respondent": "Edward Valencia Maningo",
+      "userName": "Edward Valencia Maningo",
+      "consultantName": "Edward Valencia Maningo",
+      "methodId": "seedling_planting",
+      "methodLabel": "Full Seedling Plantation",
+      "kpis": {
+        "npv": -1580.31,
+        "irr": null,
+        "bcr": 0.0,
+        "paybackYear": null,
+        "totalCost20yr": 1847.0,
+        "totalBenefit20yr": 0.0,
+        "implCostY1": 565.0,
+        "maintenanceTotal": 1282.0,
+        "ntfpRevenueTotal": 0.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": -1694.76
+        },
+        {
+          "rate": 0.06,
+          "npv": -1580.31
+        },
+        {
+          "rate": 0.08,
+          "npv": -1518.48
+        },
+        {
+          "rate": 0.1,
+          "npv": -1465.24
+        },
+        {
+          "rate": 0.12,
+          "npv": -1418.77
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 565.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 565.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -565.0
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 310.0,
+          "constraintCost": 0.0,
+          "totalCost": 310.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -310.0
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 310.0,
+          "constraintCost": 0.0,
+          "totalCost": 310.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -310.0
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 310.0,
+          "constraintCost": 0.0,
+          "totalCost": 310.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -310.0
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        }
+      ],
+      "detail": {
+        "implementationY1": 565.0,
+        "maintenanceTotal": 1282.0,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 0,
+          "pestControl": 0,
+          "total": 0.0
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 288.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 1,
+            "yearTo": 20,
+            "annualCost": 22.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 0.0,
+          "total": 0.0
+        },
+        "costTotal20yr": 1847.0,
+        "benefitTotal20yr": 0.0
+      }
+    },
+    {
+      "id": "(Edward_v2) Arid Ecosystem 2026-10-22-01-52-49.xlsx::5::seedling_planting_ntfp",
+      "label": "Edward Valencia Maningo · Uzbekistan · Arid or Semi-Arid Zones · Full Seedling Plantation (NTFP)",
+      "sourceType": "consultant",
+      "sourceFile": "(Edward_v2) Arid Ecosystem 2026-10-22-01-52-49.xlsx",
+      "country": "Uzbekistan",
+      "continent": "Asia",
+      "ecosystem": "Arid or Semi-Arid Zones",
+      "respondent": "Edward Valencia Maningo",
+      "userName": "Edward Valencia Maningo",
+      "consultantName": "Edward Valencia Maningo",
+      "methodId": "seedling_planting_ntfp",
+      "methodLabel": "Full Seedling Plantation (NTFP)",
+      "kpis": {
+        "npv": -1111.56,
+        "irr": -9.3,
+        "bcr": 0.24,
+        "paybackYear": null,
+        "totalCost20yr": 1567.0,
+        "totalBenefit20yr": 589.0,
+        "implCostY1": 562.0,
+        "maintenanceTotal": 1005.0,
+        "ntfpRevenueTotal": 589.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": -1065.55
+        },
+        {
+          "rate": 0.06,
+          "npv": -1111.56
+        },
+        {
+          "rate": 0.08,
+          "npv": -1127.62
+        },
+        {
+          "rate": 0.1,
+          "npv": -1135.78
+        },
+        {
+          "rate": 0.12,
+          "npv": -1138.27
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 562.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 562.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -562.0
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 335.0,
+          "constraintCost": 0.0,
+          "totalCost": 335.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": -304.0
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 335.0,
+          "constraintCost": 0.0,
+          "totalCost": 335.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": -304.0
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 335.0,
+          "constraintCost": 0.0,
+          "totalCost": 335.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": -304.0
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 0.0,
+          "ntfpRevenue": 31.0,
+          "totalBenefit": 31.0,
+          "netFlow": 31.0
+        }
+      ],
+      "detail": {
+        "implementationY1": 562.0,
+        "maintenanceTotal": 1005.0,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 0,
+          "pestControl": 0,
+          "total": 0.0
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 183.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 152.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 589.0,
+          "total": 589.0
+        },
+        "costTotal20yr": 1567.0,
+        "benefitTotal20yr": 589.0
+      }
+    },
+    {
+      "id": "(Edward_v2)Uzbekistan Mountain Ecoystem 2026-10-22-03-44-22.xlsx::0::anr_30",
+      "label": "Edward Valencia Maningo · Uzbekistan · Mountaine Forest · ANR/50% Enrichment",
+      "sourceType": "consultant",
+      "sourceFile": "(Edward_v2)Uzbekistan Mountain Ecoystem 2026-10-22-03-44-22.xlsx",
+      "country": "Uzbekistan",
+      "continent": "Asia",
+      "ecosystem": "Mountaine Forest",
+      "respondent": "Edward Valencia Maningo",
+      "userName": "Edward Valencia Maningo",
+      "consultantName": "Edward Valencia Maningo",
+      "methodId": "anr_30",
+      "methodLabel": "ANR/50% Enrichment",
+      "kpis": {
+        "npv": -6509.26,
+        "irr": null,
+        "bcr": 0.0,
+        "paybackYear": null,
+        "totalCost20yr": 10789.0,
+        "totalBenefit20yr": 0.0,
+        "implCostY1": 168.0,
+        "maintenanceTotal": 10621.0,
+        "ntfpRevenueTotal": 0.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": -8239.64
+        },
+        {
+          "rate": 0.06,
+          "npv": -6509.26
+        },
+        {
+          "rate": 0.08,
+          "npv": -5657.34
+        },
+        {
+          "rate": 0.1,
+          "npv": -4976.92
+        },
+        {
+          "rate": 0.12,
+          "npv": -4426.69
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 168.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 168.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -168.0
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 655.0,
+          "constraintCost": 0.0,
+          "totalCost": 655.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -655.0
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 655.0,
+          "constraintCost": 0.0,
+          "totalCost": 655.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -655.0
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 655.0,
+          "constraintCost": 0.0,
+          "totalCost": 655.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -655.0
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 541.0,
+          "constraintCost": 0.0,
+          "totalCost": 541.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -541.0
+        }
+      ],
+      "detail": {
+        "implementationY1": 168.0,
+        "maintenanceTotal": 10621.0,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 0,
+          "pestControl": 0,
+          "total": 0.0
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 114.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 1,
+            "yearTo": 20,
+            "annualCost": 541.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 0.0,
+          "total": 0.0
+        },
+        "costTotal20yr": 10789.0,
+        "benefitTotal20yr": 0.0
+      }
+    },
+    {
+      "id": "(Edward_v2)Uzbekistan Mountain Ecoystem 2026-10-22-03-44-22.xlsx::1::anr_30_ntfp",
+      "label": "Edward Valencia Maningo · Uzbekistan · Mountaine Forest · ANR/50% Enrichment (NTFP)",
+      "sourceType": "consultant",
+      "sourceFile": "(Edward_v2)Uzbekistan Mountain Ecoystem 2026-10-22-03-44-22.xlsx",
+      "country": "Uzbekistan",
+      "continent": "Asia",
+      "ecosystem": "Mountaine Forest",
+      "respondent": "Edward Valencia Maningo",
+      "userName": "Edward Valencia Maningo",
+      "consultantName": "Edward Valencia Maningo",
+      "methodId": "anr_30_ntfp",
+      "methodLabel": "ANR/50% Enrichment (NTFP)",
+      "kpis": {
+        "npv": 7515.46,
+        "irr": 29.7,
+        "bcr": 4.13,
+        "paybackYear": 9,
+        "totalCost20yr": 3761.0,
+        "totalBenefit20yr": 21368.0,
+        "implCostY1": 338.0,
+        "maintenanceTotal": 3423.0,
+        "ntfpRevenueTotal": 21368.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": 11434.96
+        },
+        {
+          "rate": 0.06,
+          "npv": 7515.46
+        },
+        {
+          "rate": 0.08,
+          "npv": 5704.57
+        },
+        {
+          "rate": 0.1,
+          "npv": 4334.88
+        },
+        {
+          "rate": 0.12,
+          "npv": 3290.05
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 338.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 338.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -338.0
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 229.0,
+          "constraintCost": 0.0,
+          "totalCost": 229.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -229.0
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 229.0,
+          "constraintCost": 0.0,
+          "totalCost": 229.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -229.0
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 229.0,
+          "constraintCost": 0.0,
+          "totalCost": 229.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -229.0
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -171.0
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 252.0,
+          "totalBenefit": 252.0,
+          "netFlow": 81.0
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 252.0,
+          "totalBenefit": 252.0,
+          "netFlow": 81.0
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 1090.0,
+          "totalBenefit": 1090.0,
+          "netFlow": 919.0
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 1090.0,
+          "totalBenefit": 1090.0,
+          "netFlow": 919.0
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 1090.0,
+          "totalBenefit": 1090.0,
+          "netFlow": 919.0
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 1090.0,
+          "totalBenefit": 1090.0,
+          "netFlow": 919.0
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 1661.0,
+          "totalBenefit": 1661.0,
+          "netFlow": 1490.0
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 1661.0,
+          "totalBenefit": 1661.0,
+          "netFlow": 1490.0
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 1661.0,
+          "totalBenefit": 1661.0,
+          "netFlow": 1490.0
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 1661.0,
+          "totalBenefit": 1661.0,
+          "netFlow": 1490.0
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 1972.0,
+          "totalBenefit": 1972.0,
+          "netFlow": 1801.0
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 1972.0,
+          "totalBenefit": 1972.0,
+          "netFlow": 1801.0
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 1972.0,
+          "totalBenefit": 1972.0,
+          "netFlow": 1801.0
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 1972.0,
+          "totalBenefit": 1972.0,
+          "netFlow": 1801.0
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 171.0,
+          "constraintCost": 0.0,
+          "totalCost": 171.0,
+          "ntfpRevenue": 1972.0,
+          "totalBenefit": 1972.0,
+          "netFlow": 1801.0
+        }
+      ],
+      "detail": {
+        "implementationY1": 338.0,
+        "maintenanceTotal": 3423.0,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 0,
+          "pestControl": 0,
+          "total": 0.0
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 29.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 29.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 1,
+            "yearTo": 20,
+            "annualCost": 171.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 21368.0,
+          "total": 21368.0
+        },
+        "costTotal20yr": 3761.0,
+        "benefitTotal20yr": 21368.0
+      }
+    },
+    {
+      "id": "(Edward_v2)Uzbekistan Mountain Ecoystem 2026-10-22-03-44-22.xlsx::2::seed_dispersal",
+      "label": "Edward Valencia Maningo · Uzbekistan · Mountaine Forest · Seed Dispersal",
+      "sourceType": "consultant",
+      "sourceFile": "(Edward_v2)Uzbekistan Mountain Ecoystem 2026-10-22-03-44-22.xlsx",
+      "country": "Uzbekistan",
+      "continent": "Asia",
+      "ecosystem": "Mountaine Forest",
+      "respondent": "Edward Valencia Maningo",
+      "userName": "Edward Valencia Maningo",
+      "consultantName": "Edward Valencia Maningo",
+      "methodId": "seed_dispersal",
+      "methodLabel": "Seed Dispersal",
+      "kpis": {
+        "npv": -1731.27,
+        "irr": null,
+        "bcr": 0.0,
+        "paybackYear": null,
+        "totalCost20yr": 2065.0,
+        "totalBenefit20yr": 0.0,
+        "implCostY1": 168.0,
+        "maintenanceTotal": 1897.0,
+        "ntfpRevenueTotal": 0.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": -1877.63
+        },
+        {
+          "rate": 0.06,
+          "npv": -1731.27
+        },
+        {
+          "rate": 0.08,
+          "npv": -1649.79
+        },
+        {
+          "rate": 0.1,
+          "npv": -1578.05
+        },
+        {
+          "rate": 0.12,
+          "npv": -1514.15
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 168.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 168.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -168.0
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 515.0,
+          "constraintCost": 0.0,
+          "totalCost": 515.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -515.0
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 515.0,
+          "constraintCost": 0.0,
+          "totalCost": 515.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -515.0
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 515.0,
+          "constraintCost": 0.0,
+          "totalCost": 515.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -515.0
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        }
+      ],
+      "detail": {
+        "implementationY1": 168.0,
+        "maintenanceTotal": 1897.0,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 0,
+          "pestControl": 0,
+          "total": 0.0
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 493.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 1,
+            "yearTo": 20,
+            "annualCost": 22.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 0.0,
+          "total": 0.0
+        },
+        "costTotal20yr": 2065.0,
+        "benefitTotal20yr": 0.0
+      }
+    },
+    {
+      "id": "(Edward_v2)Uzbekistan Mountain Ecoystem 2026-10-22-03-44-22.xlsx::3::seed_dispersal_ntfp",
+      "label": "Edward Valencia Maningo · Uzbekistan · Mountaine Forest · Seed Dispersal (NTFP)",
+      "sourceType": "consultant",
+      "sourceFile": "(Edward_v2)Uzbekistan Mountain Ecoystem 2026-10-22-03-44-22.xlsx",
+      "country": "Uzbekistan",
+      "continent": "Asia",
+      "ecosystem": "Mountaine Forest",
+      "respondent": "Edward Valencia Maningo",
+      "userName": "Edward Valencia Maningo",
+      "consultantName": "Edward Valencia Maningo",
+      "methodId": "seed_dispersal_ntfp",
+      "methodLabel": "Seed Dispersal (NTFP)",
+      "kpis": {
+        "npv": -1633.3,
+        "irr": null,
+        "bcr": 0.22,
+        "paybackYear": null,
+        "totalCost20yr": 2793.98,
+        "totalBenefit20yr": 834.0,
+        "implCostY1": 344.98,
+        "maintenanceTotal": 2449.0,
+        "ntfpRevenueTotal": 834.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": -1774.01
+        },
+        {
+          "rate": 0.06,
+          "npv": -1633.3
+        },
+        {
+          "rate": 0.08,
+          "npv": -1556.9
+        },
+        {
+          "rate": 0.1,
+          "npv": -1490.85
+        },
+        {
+          "rate": 0.12,
+          "npv": -1433.01
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 344.98,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 344.98,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -344.98
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 427.0,
+          "constraintCost": 0.0,
+          "totalCost": 427.0,
+          "ntfpRevenue": 24.0,
+          "totalBenefit": 24.0,
+          "netFlow": -403.0
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 427.0,
+          "constraintCost": 0.0,
+          "totalCost": 427.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -392.0
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 427.0,
+          "constraintCost": 0.0,
+          "totalCost": 427.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -392.0
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 35.0,
+          "totalBenefit": 35.0,
+          "netFlow": -38.0
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 73.0,
+          "constraintCost": 0.0,
+          "totalCost": 73.0,
+          "ntfpRevenue": 47.0,
+          "totalBenefit": 47.0,
+          "netFlow": -26.0
+        }
+      ],
+      "detail": {
+        "implementationY1": 344.98,
+        "maintenanceTotal": 2449.0,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 0,
+          "pestControl": 0,
+          "total": 0.0
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 177.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 177.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 1,
+            "yearTo": 20,
+            "annualCost": 73.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 834.0,
+          "total": 834.0
+        },
+        "costTotal20yr": 2793.98,
+        "benefitTotal20yr": 834.0
+      }
+    },
+    {
+      "id": "(Edward_v2)Uzbekistan Mountain Ecoystem 2026-10-22-03-44-22.xlsx::4::seedling_planting",
+      "label": "Edward Valencia Maningo · Uzbekistan · Mountaine Forest · Full Seedling Plantation",
+      "sourceType": "consultant",
+      "sourceFile": "(Edward_v2)Uzbekistan Mountain Ecoystem 2026-10-22-03-44-22.xlsx",
+      "country": "Uzbekistan",
+      "continent": "Asia",
+      "ecosystem": "Mountaine Forest",
+      "respondent": "Edward Valencia Maningo",
+      "userName": "Edward Valencia Maningo",
+      "consultantName": "Edward Valencia Maningo",
+      "methodId": "seedling_planting",
+      "methodLabel": "Full Seedling Plantation",
+      "kpis": {
+        "npv": -1206.39,
+        "irr": null,
+        "bcr": 0.0,
+        "paybackYear": null,
+        "totalCost20yr": 1426.0,
+        "totalBenefit20yr": 0.0,
+        "implCostY1": 576.0,
+        "maintenanceTotal": 850.0,
+        "ntfpRevenueTotal": 0.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": -1298.44
+        },
+        {
+          "rate": 0.06,
+          "npv": -1206.39
+        },
+        {
+          "rate": 0.08,
+          "npv": -1158.38
+        },
+        {
+          "rate": 0.1,
+          "npv": -1118.13
+        },
+        {
+          "rate": 0.12,
+          "npv": -1083.91
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 576.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 576.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -576.0
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 166.0,
+          "constraintCost": 0.0,
+          "totalCost": 166.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -166.0
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 166.0,
+          "constraintCost": 0.0,
+          "totalCost": 166.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -166.0
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 166.0,
+          "constraintCost": 0.0,
+          "totalCost": 166.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -166.0
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 22.0,
+          "constraintCost": 0.0,
+          "totalCost": 22.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -22.0
+        }
+      ],
+      "detail": {
+        "implementationY1": 576.0,
+        "maintenanceTotal": 850.0,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 0,
+          "pestControl": 0,
+          "total": 0.0
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 144.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 1,
+            "yearTo": 20,
+            "annualCost": 22.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 0.0,
+          "total": 0.0
+        },
+        "costTotal20yr": 1426.0,
+        "benefitTotal20yr": 0.0
+      }
+    },
+    {
+      "id": "(Edward_v2)Uzbekistan Mountain Ecoystem 2026-10-22-03-44-22.xlsx::5::seedling_planting_ntfp",
+      "label": "Edward Valencia Maningo · Uzbekistan · Mountaine Forest · Full Seedling Plantation (NTFP)",
+      "sourceType": "consultant",
+      "sourceFile": "(Edward_v2)Uzbekistan Mountain Ecoystem 2026-10-22-03-44-22.xlsx",
+      "country": "Uzbekistan",
+      "continent": "Asia",
+      "ecosystem": "Mountaine Forest",
+      "respondent": "Edward Valencia Maningo",
+      "userName": "Edward Valencia Maningo",
+      "consultantName": "Edward Valencia Maningo",
+      "methodId": "seedling_planting_ntfp",
+      "methodLabel": "Full Seedling Plantation (NTFP)",
+      "kpis": {
+        "npv": 1733.17,
+        "irr": 18.7,
+        "bcr": 2.74,
+        "paybackYear": 10,
+        "totalCost20yr": 1125.0,
+        "totalBenefit20yr": 5513.0,
+        "implCostY1": 467.0,
+        "maintenanceTotal": 658.0,
+        "ntfpRevenueTotal": 5513.0
+      },
+      "npvByRate": [
+        {
+          "rate": 0.03,
+          "npv": 2773.84
+        },
+        {
+          "rate": 0.06,
+          "npv": 1733.17
+        },
+        {
+          "rate": 0.08,
+          "npv": 1245.36
+        },
+        {
+          "rate": 0.1,
+          "npv": 871.84
+        },
+        {
+          "rate": 0.12,
+          "npv": 583.12
+        }
+      ],
+      "cashFlows": [
+        {
+          "year": 1,
+          "implCost": 467.0,
+          "maintCost": 0.0,
+          "constraintCost": 0.0,
+          "totalCost": 467.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -467.0
+        },
+        {
+          "year": 2,
+          "implCost": 0.0,
+          "maintCost": 166.0,
+          "constraintCost": 0.0,
+          "totalCost": 166.0,
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -166.0
+        },
+        {
+          "year": 3,
+          "implCost": 0.0,
+          "maintCost": 166.0,
+          "constraintCost": 0.0,
+          "totalCost": 166.0,
+          "ntfpRevenue": 56.0,
+          "totalBenefit": 56.0,
+          "netFlow": -110.0
+        },
+        {
+          "year": 4,
+          "implCost": 0.0,
+          "maintCost": 166.0,
+          "constraintCost": 0.0,
+          "totalCost": 166.0,
+          "ntfpRevenue": 56.0,
+          "totalBenefit": 56.0,
+          "netFlow": -110.0
+        },
+        {
+          "year": 5,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 56.0,
+          "totalBenefit": 56.0,
+          "netFlow": 46.0
+        },
+        {
+          "year": 6,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 244.0,
+          "totalBenefit": 244.0,
+          "netFlow": 234.0
+        },
+        {
+          "year": 7,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 244.0,
+          "totalBenefit": 244.0,
+          "netFlow": 234.0
+        },
+        {
+          "year": 8,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 244.0,
+          "totalBenefit": 244.0,
+          "netFlow": 234.0
+        },
+        {
+          "year": 9,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 244.0,
+          "totalBenefit": 244.0,
+          "netFlow": 234.0
+        },
+        {
+          "year": 10,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 244.0,
+          "totalBenefit": 244.0,
+          "netFlow": 234.0
+        },
+        {
+          "year": 11,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 375.0,
+          "totalBenefit": 375.0,
+          "netFlow": 365.0
+        },
+        {
+          "year": 12,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 375.0,
+          "totalBenefit": 375.0,
+          "netFlow": 365.0
+        },
+        {
+          "year": 13,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 375.0,
+          "totalBenefit": 375.0,
+          "netFlow": 365.0
+        },
+        {
+          "year": 14,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 375.0,
+          "totalBenefit": 375.0,
+          "netFlow": 365.0
+        },
+        {
+          "year": 15,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 375.0,
+          "totalBenefit": 375.0,
+          "netFlow": 365.0
+        },
+        {
+          "year": 16,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 450.0,
+          "totalBenefit": 450.0,
+          "netFlow": 440.0
+        },
+        {
+          "year": 17,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 450.0,
+          "totalBenefit": 450.0,
+          "netFlow": 440.0
+        },
+        {
+          "year": 18,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 450.0,
+          "totalBenefit": 450.0,
+          "netFlow": 440.0
+        },
+        {
+          "year": 19,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 450.0,
+          "totalBenefit": 450.0,
+          "netFlow": 440.0
+        },
+        {
+          "year": 20,
+          "implCost": 0.0,
+          "maintCost": 10.0,
+          "constraintCost": 0.0,
+          "totalCost": 10.0,
+          "ntfpRevenue": 450.0,
+          "totalBenefit": 450.0,
+          "netFlow": 440.0
+        }
+      ],
+      "detail": {
+        "implementationY1": 467.0,
+        "maintenanceTotal": 658.0,
+        "constraints": {
+          "firebreak": 0,
+          "fencing": 0,
+          "weedControl": 0,
+          "pestControl": 0,
+          "total": 0.0
+        },
+        "maintenanceSegments": [
+          {
+            "label": "Maintenance of regenerating individuals",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 71.0
+          },
+          {
+            "label": "Maintenance of NTFP species",
+            "yearFrom": 2,
+            "yearTo": 4,
+            "annualCost": 85.0
+          },
+          {
+            "label": "Monitoring General Maintenance Activities",
+            "yearFrom": 1,
+            "yearTo": 20,
+            "annualCost": 10.0
+          }
+        ],
+        "benefits": {
+          "ntfpRevenueTotal": 5513.0,
+          "total": 5513.0
+        },
+        "costTotal20yr": 1125.0,
+        "benefitTotal20yr": 5513.0
+      }
+    },
     {
       "id": "(Gabriela_Mangrove) restoration_Mangrove_Seed_Dispersal_2026-06-16-00-05-14._GABRIELA SARMIENTOxlsx.xlsx::0::anr_30",
       "label": "Gabriela Sarmiento · Trinidad y Tobago · Mangrove · ANR/50% Enrichment",
@@ -874,298 +4264,6 @@
         },
         "costTotal20yr": 11400.0,
         "benefitTotal20yr": 0.0
-      }
-    },
-    {
-      "id": "(Gabriela_Mangrove) restoration_Mangrove_Seed_Dispersal_2026-06-16-00-05-14._GABRIELA SARMIENTOxlsx.xlsx::3::seedling_planting_ntfp",
-      "label": "Gabriela Sarmiento · Trinidad y Tobago · Mangrove · Full Seedling Plantation (NTFP)",
-      "sourceType": "consultant",
-      "sourceFile": "(Gabriela_Mangrove) restoration_Mangrove_Seed_Dispersal_2026-06-16-00-05-14._GABRIELA SARMIENTOxlsx.xlsx",
-      "country": "Trinidad y Tobago",
-      "continent": "Americas",
-      "ecosystem": "Mangrove",
-      "respondent": "Gabriela Sarmiento",
-      "userName": "Gabriela Sarmiento",
-      "consultantName": "Gabriela Sarmiento",
-      "methodId": "seedling_planting_ntfp",
-      "methodLabel": "Full Seedling Plantation (NTFP)",
-      "kpis": {
-        "npv": 418852.74,
-        "irr": 314.8,
-        "bcr": 16.25,
-        "paybackYear": 2,
-        "totalCost20yr": 32590.0,
-        "totalBenefit20yr": 760000.0,
-        "implCostY1": 11890.0,
-        "maintenanceTotal": 20700.0,
-        "ntfpRevenueTotal": 760000.0
-      },
-      "npvByRate": [
-        {
-          "rate": 0.03,
-          "npv": 541462.72
-        },
-        {
-          "rate": 0.06,
-          "npv": 418852.74
-        },
-        {
-          "rate": 0.08,
-          "npv": 358655.84
-        },
-        {
-          "rate": 0.1,
-          "npv": 310697.19
-        },
-        {
-          "rate": 0.12,
-          "npv": 272019.65
-        }
-      ],
-      "cashFlows": [
-        {
-          "year": 1,
-          "implCost": 11890.0,
-          "maintCost": 0.0,
-          "constraintCost": 240.0,
-          "totalCost": 12130.0,
-          "ntfpRevenue": 0.0,
-          "totalBenefit": 0.0,
-          "netFlow": -12130.0
-        },
-        {
-          "year": 2,
-          "implCost": 0.0,
-          "maintCost": 1600.0,
-          "constraintCost": 240.0,
-          "totalCost": 1840.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38160.0
-        },
-        {
-          "year": 3,
-          "implCost": 0.0,
-          "maintCost": 1600.0,
-          "constraintCost": 240.0,
-          "totalCost": 1840.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38160.0
-        },
-        {
-          "year": 4,
-          "implCost": 0.0,
-          "maintCost": 1300.0,
-          "constraintCost": 240.0,
-          "totalCost": 1540.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38460.0
-        },
-        {
-          "year": 5,
-          "implCost": 0.0,
-          "maintCost": 1100.0,
-          "constraintCost": 240.0,
-          "totalCost": 1340.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38660.0
-        },
-        {
-          "year": 6,
-          "implCost": 0.0,
-          "maintCost": 1100.0,
-          "constraintCost": 240.0,
-          "totalCost": 1340.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38660.0
-        },
-        {
-          "year": 7,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        },
-        {
-          "year": 8,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        },
-        {
-          "year": 9,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        },
-        {
-          "year": 10,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        },
-        {
-          "year": 11,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        },
-        {
-          "year": 12,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        },
-        {
-          "year": 13,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        },
-        {
-          "year": 14,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        },
-        {
-          "year": 15,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        },
-        {
-          "year": 16,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        },
-        {
-          "year": 17,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        },
-        {
-          "year": 18,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        },
-        {
-          "year": 19,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        },
-        {
-          "year": 20,
-          "implCost": 0.0,
-          "maintCost": 1000.0,
-          "constraintCost": 240.0,
-          "totalCost": 1240.0,
-          "ntfpRevenue": 40000.0,
-          "totalBenefit": 40000.0,
-          "netFlow": 38760.0
-        }
-      ],
-      "detail": {
-        "implementationY1": 11890.0,
-        "maintenanceTotal": 20700.0,
-        "constraints": {
-          "firebreak": 3750.0,
-          "fencing": 0,
-          "weedControl": 300.0,
-          "pestControl": 750.0,
-          "total": 4800.0
-        },
-        "maintenanceSegments": [
-          {
-            "label": "Maintenance of NTFP species",
-            "yearFrom": 2,
-            "yearTo": 3,
-            "annualCost": 400.0
-          },
-          {
-            "label": "Harvest",
-            "yearFrom": 2,
-            "yearTo": 20,
-            "annualCost": 1000.0
-          },
-          {
-            "label": "Monitoring General Maintenance Activities",
-            "yearFrom": 2,
-            "yearTo": 4,
-            "annualCost": 200.0
-          },
-          {
-            "label": "Monitoring General Maintenance Activities",
-            "yearFrom": 4,
-            "yearTo": 6,
-            "annualCost": 100.0
-          }
-        ],
-        "benefits": {
-          "ntfpRevenueTotal": 760000.0,
-          "total": 760000.0
-        },
-        "costTotal20yr": 32590.0,
-        "benefitTotal20yr": 760000.0
       }
     },
     {
@@ -10018,36 +13116,36 @@
       "methodId": "anr_30_ntfp",
       "methodLabel": "ANR/50% Enrichment (NTFP)",
       "kpis": {
-        "npv": 37428.57,
-        "irr": 55.4,
-        "bcr": 3.16,
-        "paybackYear": 5,
+        "npv": 2398.11,
+        "irr": 14.0,
+        "bcr": 1.14,
+        "paybackYear": 11,
         "totalCost20yr": 30452.0,
-        "totalBenefit20yr": 103200.0,
+        "totalBenefit20yr": 37144.57,
         "implCostY1": 1909.0,
         "maintenanceTotal": 28543.0,
-        "ntfpRevenueTotal": 103200.0
+        "ntfpRevenueTotal": 37144.57
       },
       "npvByRate": [
         {
           "rate": 0.03,
-          "npv": 51571.5
+          "npv": 4114.03
         },
         {
           "rate": 0.06,
-          "npv": 37428.57
+          "npv": 2398.11
         },
         {
           "rate": 0.08,
-          "npv": 30578.87
+          "npv": 1570.21
         },
         {
           "rate": 0.1,
-          "npv": 25188.36
+          "npv": 920.97
         },
         {
           "rate": 0.12,
-          "npv": 20900.02
+          "npv": 406.55
         }
       ],
       "cashFlows": [
@@ -10097,9 +13195,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 6,
@@ -10107,9 +13205,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 7,
@@ -10117,9 +13215,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 8,
@@ -10127,9 +13225,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 9,
@@ -10137,9 +13235,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 10,
@@ -10147,9 +13245,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 11,
@@ -10157,9 +13255,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 12,
@@ -10167,9 +13265,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 13,
@@ -10177,9 +13275,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 14,
@@ -10187,9 +13285,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 15,
@@ -10197,9 +13295,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 16,
@@ -10207,9 +13305,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 17,
@@ -10217,9 +13315,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 18,
@@ -10227,9 +13325,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 19,
@@ -10237,9 +13335,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 20,
@@ -10247,9 +13345,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         }
       ],
       "detail": {
@@ -10301,11 +13399,11 @@
           }
         ],
         "benefits": {
-          "ntfpRevenueTotal": 103200.0,
-          "total": 103200.0
+          "ntfpRevenueTotal": 37144.57,
+          "total": 37144.57
         },
         "costTotal20yr": 30452.0,
-        "benefitTotal20yr": 103200.0
+        "benefitTotal20yr": 37144.57
       }
     },
     {
@@ -10650,36 +13748,36 @@
       "methodId": "seed_dispersal_ntfp",
       "methodLabel": "Seed Dispersal (NTFP)",
       "kpis": {
-        "npv": 32386.95,
-        "irr": 30.0,
-        "bcr": 2.45,
-        "paybackYear": 7,
+        "npv": -2643.5,
+        "irr": 1.7,
+        "bcr": 0.88,
+        "paybackYear": null,
         "totalCost20yr": 35627.0,
-        "totalBenefit20yr": 103200.0,
+        "totalBenefit20yr": 37144.57,
         "implCostY1": 5800.0,
         "maintenanceTotal": 29827.0,
-        "ntfpRevenueTotal": 103200.0
+        "ntfpRevenueTotal": 37144.57
       },
       "npvByRate": [
         {
           "rate": 0.03,
-          "npv": 46466.32
+          "npv": -991.15
         },
         {
           "rate": 0.06,
-          "npv": 32386.95
+          "npv": -2643.5
         },
         {
           "rate": 0.08,
-          "npv": 25576.54
+          "npv": -3432.13
         },
         {
           "rate": 0.1,
-          "npv": 20223.04
+          "npv": -4044.35
         },
         {
           "rate": 0.12,
-          "npv": 15969.64
+          "npv": -4523.83
         }
       ],
       "cashFlows": [
@@ -10729,9 +13827,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 6,
@@ -10739,9 +13837,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 7,
@@ -10749,9 +13847,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 8,
@@ -10759,9 +13857,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 9,
@@ -10769,9 +13867,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 10,
@@ -10779,9 +13877,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 11,
@@ -10789,9 +13887,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 12,
@@ -10799,9 +13897,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 13,
@@ -10809,9 +13907,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 14,
@@ -10819,9 +13917,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 15,
@@ -10829,9 +13927,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 16,
@@ -10839,9 +13937,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 17,
@@ -10849,9 +13947,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 18,
@@ -10859,9 +13957,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 19,
@@ -10869,9 +13967,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         },
         {
           "year": 20,
@@ -10879,9 +13977,9 @@
           "maintCost": 1743.0,
           "constraintCost": 0.0,
           "totalCost": 1743.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4707.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 578.54
         }
       ],
       "detail": {
@@ -10963,11 +14061,11 @@
           }
         ],
         "benefits": {
-          "ntfpRevenueTotal": 103200.0,
-          "total": 103200.0
+          "ntfpRevenueTotal": 37144.57,
+          "total": 37144.57
         },
         "costTotal20yr": 35627.0,
-        "benefitTotal20yr": 103200.0
+        "benefitTotal20yr": 37144.57
       }
     },
     {
@@ -11258,36 +14356,36 @@
       "methodId": "seedling_planting_ntfp",
       "methodLabel": "Full Seedling Plantation (NTFP)",
       "kpis": {
-        "npv": 35261.37,
-        "irr": 42.1,
-        "bcr": 2.81,
-        "paybackYear": 6,
+        "npv": 230.92,
+        "irr": 6.6,
+        "bcr": 1.01,
+        "paybackYear": 19,
         "totalCost20yr": 33229.0,
-        "totalBenefit20yr": 103200.0,
+        "totalBenefit20yr": 37144.57,
         "implCostY1": 3600.0,
         "maintenanceTotal": 29629.0,
-        "ntfpRevenueTotal": 103200.0
+        "ntfpRevenueTotal": 37144.57
       },
       "npvByRate": [
         {
           "rate": 0.03,
-          "npv": 49160.75
+          "npv": 1703.28
         },
         {
           "rate": 0.06,
-          "npv": 35261.37
+          "npv": 230.92
         },
         {
           "rate": 0.08,
-          "npv": 28529.05
+          "npv": -479.62
         },
         {
           "rate": 0.1,
-          "npv": 23230.45
+          "npv": -1036.95
         },
         {
           "rate": 0.12,
-          "npv": 19014.79
+          "npv": -1478.69
         }
       ],
       "cashFlows": [
@@ -11337,9 +14435,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 6,
@@ -11347,9 +14445,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 7,
@@ -11357,9 +14455,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 8,
@@ -11367,9 +14465,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 9,
@@ -11377,9 +14475,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 10,
@@ -11387,9 +14485,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 11,
@@ -11397,9 +14495,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 12,
@@ -11407,9 +14505,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 13,
@@ -11417,9 +14515,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 14,
@@ -11427,9 +14525,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 15,
@@ -11437,9 +14535,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 16,
@@ -11447,9 +14545,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 17,
@@ -11457,9 +14555,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 18,
@@ -11467,9 +14565,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 19,
@@ -11477,9 +14575,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         },
         {
           "year": 20,
@@ -11487,9 +14585,9 @@
           "maintCost": 1825.0,
           "constraintCost": 0.0,
           "totalCost": 1825.0,
-          "ntfpRevenue": 6450.0,
-          "totalBenefit": 6450.0,
-          "netFlow": 4625.0
+          "ntfpRevenue": 2321.54,
+          "totalBenefit": 2321.54,
+          "netFlow": 496.54
         }
       ],
       "detail": {
@@ -11517,11 +14615,11 @@
           }
         ],
         "benefits": {
-          "ntfpRevenueTotal": 103200.0,
-          "total": 103200.0
+          "ntfpRevenueTotal": 37144.57,
+          "total": 37144.57
         },
         "costTotal20yr": 33229.0,
-        "benefitTotal20yr": 103200.0
+        "benefitTotal20yr": 37144.57
       }
     },
     {
@@ -11538,7 +14636,7 @@
       "methodId": "anr_30",
       "methodLabel": "ANR/50% Enrichment",
       "kpis": {
-        "npv": -55725.87,
+        "npv": -5785.66,
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
@@ -11551,23 +14649,23 @@
       "npvByRate": [
         {
           "rate": 0.03,
-          "npv": -59825.98
+          "npv": -7036.78
         },
         {
           "rate": 0.06,
-          "npv": -55725.87
+          "npv": -5785.66
         },
         {
           "rate": 0.08,
-          "npv": -53710.39
+          "npv": -5169.2
         },
         {
           "rate": 0.1,
-          "npv": -52103.19
+          "npv": -4676.76
         },
         {
           "rate": 0.12,
-          "npv": -50805.86
+          "npv": -4278.62
         }
       ],
       "cashFlows": [
@@ -11575,201 +14673,201 @@
           "year": 1,
           "implCost": 1300.0,
           "maintCost": 0.0,
-          "constraintCost": 39913.07,
-          "totalCost": 41213.07,
+          "constraintCost": 14.75,
+          "totalCost": 1314.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -41213.07
+          "netFlow": -1314.75
         },
         {
           "year": 2,
           "implCost": 0.0,
           "maintCost": 388.0,
-          "constraintCost": 914.71,
-          "totalCost": 1302.71,
+          "constraintCost": 14.75,
+          "totalCost": 402.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1302.71
+          "netFlow": -402.75
         },
         {
           "year": 3,
           "implCost": 0.0,
           "maintCost": 388.0,
-          "constraintCost": 914.71,
-          "totalCost": 1302.71,
+          "constraintCost": 14.75,
+          "totalCost": 402.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1302.71
+          "netFlow": -402.75
         },
         {
           "year": 4,
           "implCost": 0.0,
           "maintCost": 388.0,
-          "constraintCost": 914.71,
-          "totalCost": 1302.71,
+          "constraintCost": 14.75,
+          "totalCost": 402.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1302.71
+          "netFlow": -402.75
         },
         {
           "year": 5,
           "implCost": 0.0,
           "maintCost": 388.0,
-          "constraintCost": 914.71,
-          "totalCost": 1302.71,
+          "constraintCost": 14.75,
+          "totalCost": 402.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1302.71
+          "netFlow": -402.75
         },
         {
           "year": 6,
           "implCost": 0.0,
           "maintCost": 393.0,
-          "constraintCost": 914.71,
-          "totalCost": 1307.71,
+          "constraintCost": 14.75,
+          "totalCost": 407.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1307.71
+          "netFlow": -407.75
         },
         {
           "year": 7,
           "implCost": 0.0,
           "maintCost": 393.0,
-          "constraintCost": 914.71,
-          "totalCost": 1307.71,
+          "constraintCost": 14.75,
+          "totalCost": 407.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1307.71
+          "netFlow": -407.75
         },
         {
           "year": 8,
           "implCost": 0.0,
           "maintCost": 393.0,
-          "constraintCost": 914.71,
-          "totalCost": 1307.71,
+          "constraintCost": 14.75,
+          "totalCost": 407.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1307.71
+          "netFlow": -407.75
         },
         {
           "year": 9,
           "implCost": 0.0,
           "maintCost": 393.0,
-          "constraintCost": 914.71,
-          "totalCost": 1307.71,
+          "constraintCost": 14.75,
+          "totalCost": 407.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1307.71
+          "netFlow": -407.75
         },
         {
           "year": 10,
           "implCost": 0.0,
           "maintCost": 393.0,
-          "constraintCost": 914.71,
-          "totalCost": 1307.71,
+          "constraintCost": 14.75,
+          "totalCost": 407.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1307.71
+          "netFlow": -407.75
         },
         {
           "year": 11,
           "implCost": 0.0,
           "maintCost": 393.0,
-          "constraintCost": 914.71,
-          "totalCost": 1307.71,
+          "constraintCost": 14.75,
+          "totalCost": 407.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1307.71
+          "netFlow": -407.75
         },
         {
           "year": 12,
           "implCost": 0.0,
           "maintCost": 393.0,
-          "constraintCost": 914.71,
-          "totalCost": 1307.71,
+          "constraintCost": 14.75,
+          "totalCost": 407.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1307.71
+          "netFlow": -407.75
         },
         {
           "year": 13,
           "implCost": 0.0,
           "maintCost": 393.0,
-          "constraintCost": 914.71,
-          "totalCost": 1307.71,
+          "constraintCost": 14.75,
+          "totalCost": 407.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1307.71
+          "netFlow": -407.75
         },
         {
           "year": 14,
           "implCost": 0.0,
           "maintCost": 393.0,
-          "constraintCost": 914.71,
-          "totalCost": 1307.71,
+          "constraintCost": 14.75,
+          "totalCost": 407.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1307.71
+          "netFlow": -407.75
         },
         {
           "year": 15,
           "implCost": 0.0,
           "maintCost": 393.0,
-          "constraintCost": 914.71,
-          "totalCost": 1307.71,
+          "constraintCost": 14.75,
+          "totalCost": 407.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1307.71
+          "netFlow": -407.75
         },
         {
           "year": 16,
           "implCost": 0.0,
           "maintCost": 360.0,
-          "constraintCost": 914.71,
-          "totalCost": 1274.71,
+          "constraintCost": 14.75,
+          "totalCost": 374.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1274.71
+          "netFlow": -374.75
         },
         {
           "year": 17,
           "implCost": 0.0,
           "maintCost": 360.0,
-          "constraintCost": 914.71,
-          "totalCost": 1274.71,
+          "constraintCost": 14.75,
+          "totalCost": 374.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1274.71
+          "netFlow": -374.75
         },
         {
           "year": 18,
           "implCost": 0.0,
           "maintCost": 360.0,
-          "constraintCost": 914.71,
-          "totalCost": 1274.71,
+          "constraintCost": 14.75,
+          "totalCost": 374.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1274.71
+          "netFlow": -374.75
         },
         {
           "year": 19,
           "implCost": 0.0,
           "maintCost": 360.0,
-          "constraintCost": 914.71,
-          "totalCost": 1274.71,
+          "constraintCost": 14.75,
+          "totalCost": 374.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1274.71
+          "netFlow": -374.75
         },
         {
           "year": 20,
           "implCost": 0.0,
           "maintCost": 360.0,
-          "constraintCost": 914.71,
-          "totalCost": 1274.71,
+          "constraintCost": 14.75,
+          "totalCost": 374.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1274.71
+          "netFlow": -374.75
         }
       ],
       "detail": {
@@ -11777,10 +14875,10 @@
         "maintenanceTotal": 7282.0,
         "constraints": {
           "firebreak": 0.0,
-          "fencing": 56997.6,
+          "fencing": 0,
           "weedControl": 24.0,
           "pestControl": 271.0,
-          "total": 57292.6
+          "total": 295.0
         },
         "maintenanceSegments": [
           {
@@ -11842,9 +14940,9 @@
       "methodId": "anr_30_ntfp",
       "methodLabel": "ANR/50% Enrichment (NTFP)",
       "kpis": {
-        "npv": -51504.13,
+        "npv": -1563.93,
         "irr": null,
-        "bcr": 0.09,
+        "bcr": 0.77,
         "paybackYear": null,
         "totalCost20yr": 10065.0,
         "totalBenefit20yr": 8671.0,
@@ -11855,23 +14953,23 @@
       "npvByRate": [
         {
           "rate": 0.03,
-          "npv": -54349.64
+          "npv": -1560.44
         },
         {
           "rate": 0.06,
-          "npv": -51504.13
+          "npv": -1563.93
         },
         {
           "rate": 0.08,
-          "npv": -50139.68
+          "npv": -1598.49
         },
         {
           "rate": 0.1,
-          "npv": -49069.92
+          "npv": -1643.49
         },
         {
           "rate": 0.12,
-          "npv": -48218.86
+          "npv": -1691.62
         }
       ],
       "cashFlows": [
@@ -11879,201 +14977,201 @@
           "year": 1,
           "implCost": 1500.0,
           "maintCost": 0.0,
-          "constraintCost": 39913.07,
-          "totalCost": 41413.07,
+          "constraintCost": 14.75,
+          "totalCost": 1514.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -41413.07
+          "netFlow": -1514.75
         },
         {
           "year": 2,
           "implCost": 0.0,
           "maintCost": 435.0,
-          "constraintCost": 914.71,
-          "totalCost": 1349.71,
+          "constraintCost": 14.75,
+          "totalCost": 449.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1349.71
+          "netFlow": -449.75
         },
         {
           "year": 3,
           "implCost": 0.0,
           "maintCost": 435.0,
-          "constraintCost": 914.71,
-          "totalCost": 1349.71,
+          "constraintCost": 14.75,
+          "totalCost": 449.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1349.71
+          "netFlow": -449.75
         },
         {
           "year": 4,
           "implCost": 0.0,
           "maintCost": 435.0,
-          "constraintCost": 914.71,
-          "totalCost": 1349.71,
+          "constraintCost": 14.75,
+          "totalCost": 449.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1349.71
+          "netFlow": -449.75
         },
         {
           "year": 5,
           "implCost": 0.0,
           "maintCost": 435.0,
-          "constraintCost": 914.71,
-          "totalCost": 1349.71,
+          "constraintCost": 14.75,
+          "totalCost": 449.75,
           "ntfpRevenue": 741.0,
           "totalBenefit": 741.0,
-          "netFlow": -608.71
+          "netFlow": 291.25
         },
         {
           "year": 6,
           "implCost": 0.0,
           "maintCost": 480.0,
-          "constraintCost": 914.71,
-          "totalCost": 1394.71,
+          "constraintCost": 14.75,
+          "totalCost": 494.75,
           "ntfpRevenue": 741.0,
           "totalBenefit": 741.0,
-          "netFlow": -653.71
+          "netFlow": 246.25
         },
         {
           "year": 7,
           "implCost": 0.0,
           "maintCost": 480.0,
-          "constraintCost": 914.71,
-          "totalCost": 1394.71,
+          "constraintCost": 14.75,
+          "totalCost": 494.75,
           "ntfpRevenue": 741.0,
           "totalBenefit": 741.0,
-          "netFlow": -653.71
+          "netFlow": 246.25
         },
         {
           "year": 8,
           "implCost": 0.0,
           "maintCost": 480.0,
-          "constraintCost": 914.71,
-          "totalCost": 1394.71,
+          "constraintCost": 14.75,
+          "totalCost": 494.75,
           "ntfpRevenue": 741.0,
           "totalBenefit": 741.0,
-          "netFlow": -653.71
+          "netFlow": 246.25
         },
         {
           "year": 9,
           "implCost": 0.0,
           "maintCost": 480.0,
-          "constraintCost": 914.71,
-          "totalCost": 1394.71,
+          "constraintCost": 14.75,
+          "totalCost": 494.75,
           "ntfpRevenue": 741.0,
           "totalBenefit": 741.0,
-          "netFlow": -653.71
+          "netFlow": 246.25
         },
         {
           "year": 10,
           "implCost": 0.0,
           "maintCost": 480.0,
-          "constraintCost": 914.71,
-          "totalCost": 1394.71,
+          "constraintCost": 14.75,
+          "totalCost": 494.75,
           "ntfpRevenue": 741.0,
           "totalBenefit": 741.0,
-          "netFlow": -653.71
+          "netFlow": 246.25
         },
         {
           "year": 11,
           "implCost": 0.0,
           "maintCost": 465.0,
-          "constraintCost": 914.71,
-          "totalCost": 1379.71,
+          "constraintCost": 14.75,
+          "totalCost": 479.75,
           "ntfpRevenue": 845.0,
           "totalBenefit": 845.0,
-          "netFlow": -534.71
+          "netFlow": 365.25
         },
         {
           "year": 12,
           "implCost": 0.0,
           "maintCost": 465.0,
-          "constraintCost": 914.71,
-          "totalCost": 1379.71,
+          "constraintCost": 14.75,
+          "totalCost": 479.75,
           "ntfpRevenue": 845.0,
           "totalBenefit": 845.0,
-          "netFlow": -534.71
+          "netFlow": 365.25
         },
         {
           "year": 13,
           "implCost": 0.0,
           "maintCost": 465.0,
-          "constraintCost": 914.71,
-          "totalCost": 1379.71,
+          "constraintCost": 14.75,
+          "totalCost": 479.75,
           "ntfpRevenue": 845.0,
           "totalBenefit": 845.0,
-          "netFlow": -534.71
+          "netFlow": 365.25
         },
         {
           "year": 14,
           "implCost": 0.0,
           "maintCost": 465.0,
-          "constraintCost": 914.71,
-          "totalCost": 1379.71,
+          "constraintCost": 14.75,
+          "totalCost": 479.75,
           "ntfpRevenue": 845.0,
           "totalBenefit": 845.0,
-          "netFlow": -534.71
+          "netFlow": 365.25
         },
         {
           "year": 15,
           "implCost": 0.0,
           "maintCost": 465.0,
-          "constraintCost": 914.71,
-          "totalCost": 1379.71,
+          "constraintCost": 14.75,
+          "totalCost": 479.75,
           "ntfpRevenue": 845.0,
           "totalBenefit": 845.0,
-          "netFlow": -534.71
+          "netFlow": 365.25
         },
         {
           "year": 16,
           "implCost": 0.0,
           "maintCost": 420.0,
-          "constraintCost": 914.71,
-          "totalCost": 1334.71,
+          "constraintCost": 14.75,
+          "totalCost": 434.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1334.71
+          "netFlow": -434.75
         },
         {
           "year": 17,
           "implCost": 0.0,
           "maintCost": 420.0,
-          "constraintCost": 914.71,
-          "totalCost": 1334.71,
+          "constraintCost": 14.75,
+          "totalCost": 434.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1334.71
+          "netFlow": -434.75
         },
         {
           "year": 18,
           "implCost": 0.0,
           "maintCost": 420.0,
-          "constraintCost": 914.71,
-          "totalCost": 1334.71,
+          "constraintCost": 14.75,
+          "totalCost": 434.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1334.71
+          "netFlow": -434.75
         },
         {
           "year": 19,
           "implCost": 0.0,
           "maintCost": 420.0,
-          "constraintCost": 914.71,
-          "totalCost": 1334.71,
+          "constraintCost": 14.75,
+          "totalCost": 434.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1334.71
+          "netFlow": -434.75
         },
         {
           "year": 20,
           "implCost": 0.0,
           "maintCost": 420.0,
-          "constraintCost": 914.71,
-          "totalCost": 1334.71,
+          "constraintCost": 14.75,
+          "totalCost": 434.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1334.71
+          "netFlow": -434.75
         }
       ],
       "detail": {
@@ -12081,10 +15179,10 @@
         "maintenanceTotal": 8565.0,
         "constraints": {
           "firebreak": 0.0,
-          "fencing": 56997.6,
+          "fencing": 0,
           "weedControl": 24.0,
           "pestControl": 271.0,
-          "total": 57292.6
+          "total": 295.0
         },
         "maintenanceSegments": [
           {
@@ -12182,7 +15280,7 @@
       "methodId": "seed_dispersal",
       "methodLabel": "Seed Dispersal",
       "kpis": {
-        "npv": -55331.1,
+        "npv": -5390.9,
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
@@ -12195,23 +15293,23 @@
       "npvByRate": [
         {
           "rate": 0.03,
-          "npv": -59456.71
+          "npv": -6667.51
         },
         {
           "rate": 0.06,
-          "npv": -55331.1
+          "npv": -5390.9
         },
         {
           "rate": 0.08,
-          "npv": -53302.94
+          "npv": -4761.75
         },
         {
           "rate": 0.1,
-          "npv": -51685.49
+          "npv": -4259.06
         },
         {
           "rate": 0.12,
-          "npv": -50379.77
+          "npv": -3852.53
         }
       ],
       "cashFlows": [
@@ -12219,201 +15317,201 @@
           "year": 1,
           "implCost": 800.0,
           "maintCost": 0.0,
-          "constraintCost": 39913.07,
-          "totalCost": 40713.07,
+          "constraintCost": 14.75,
+          "totalCost": 814.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -40713.07
+          "netFlow": -814.75
         },
         {
           "year": 2,
           "implCost": 0.0,
           "maintCost": 400.0,
-          "constraintCost": 914.71,
-          "totalCost": 1314.71,
+          "constraintCost": 14.75,
+          "totalCost": 414.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1314.71
+          "netFlow": -414.75
         },
         {
           "year": 3,
           "implCost": 0.0,
           "maintCost": 400.0,
-          "constraintCost": 914.71,
-          "totalCost": 1314.71,
+          "constraintCost": 14.75,
+          "totalCost": 414.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1314.71
+          "netFlow": -414.75
         },
         {
           "year": 4,
           "implCost": 0.0,
           "maintCost": 400.0,
-          "constraintCost": 914.71,
-          "totalCost": 1314.71,
+          "constraintCost": 14.75,
+          "totalCost": 414.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1314.71
+          "netFlow": -414.75
         },
         {
           "year": 5,
           "implCost": 0.0,
           "maintCost": 400.0,
-          "constraintCost": 914.71,
-          "totalCost": 1314.71,
+          "constraintCost": 14.75,
+          "totalCost": 414.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1314.71
+          "netFlow": -414.75
         },
         {
           "year": 6,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 7,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 8,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 9,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 10,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 11,
           "implCost": 0.0,
           "maintCost": 395.0,
-          "constraintCost": 914.71,
-          "totalCost": 1309.71,
+          "constraintCost": 14.75,
+          "totalCost": 409.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1309.71
+          "netFlow": -409.75
         },
         {
           "year": 12,
           "implCost": 0.0,
           "maintCost": 395.0,
-          "constraintCost": 914.71,
-          "totalCost": 1309.71,
+          "constraintCost": 14.75,
+          "totalCost": 409.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1309.71
+          "netFlow": -409.75
         },
         {
           "year": 13,
           "implCost": 0.0,
           "maintCost": 395.0,
-          "constraintCost": 914.71,
-          "totalCost": 1309.71,
+          "constraintCost": 14.75,
+          "totalCost": 409.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1309.71
+          "netFlow": -409.75
         },
         {
           "year": 14,
           "implCost": 0.0,
           "maintCost": 395.0,
-          "constraintCost": 914.71,
-          "totalCost": 1309.71,
+          "constraintCost": 14.75,
+          "totalCost": 409.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1309.71
+          "netFlow": -409.75
         },
         {
           "year": 15,
           "implCost": 0.0,
           "maintCost": 395.0,
-          "constraintCost": 914.71,
-          "totalCost": 1309.71,
+          "constraintCost": 14.75,
+          "totalCost": 409.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1309.71
+          "netFlow": -409.75
         },
         {
           "year": 16,
           "implCost": 0.0,
           "maintCost": 370.0,
-          "constraintCost": 914.71,
-          "totalCost": 1284.71,
+          "constraintCost": 14.75,
+          "totalCost": 384.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1284.71
+          "netFlow": -384.75
         },
         {
           "year": 17,
           "implCost": 0.0,
           "maintCost": 370.0,
-          "constraintCost": 914.71,
-          "totalCost": 1284.71,
+          "constraintCost": 14.75,
+          "totalCost": 384.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1284.71
+          "netFlow": -384.75
         },
         {
           "year": 18,
           "implCost": 0.0,
           "maintCost": 370.0,
-          "constraintCost": 914.71,
-          "totalCost": 1284.71,
+          "constraintCost": 14.75,
+          "totalCost": 384.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1284.71
+          "netFlow": -384.75
         },
         {
           "year": 19,
           "implCost": 0.0,
           "maintCost": 370.0,
-          "constraintCost": 914.71,
-          "totalCost": 1284.71,
+          "constraintCost": 14.75,
+          "totalCost": 384.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1284.71
+          "netFlow": -384.75
         },
         {
           "year": 20,
           "implCost": 0.0,
           "maintCost": 370.0,
-          "constraintCost": 914.71,
-          "totalCost": 1284.71,
+          "constraintCost": 14.75,
+          "totalCost": 384.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1284.71
+          "netFlow": -384.75
         }
       ],
       "detail": {
@@ -12421,10 +15519,10 @@
         "maintenanceTotal": 7450.0,
         "constraints": {
           "firebreak": 0.0,
-          "fencing": 56997.6,
+          "fencing": 0,
           "weedControl": 24.0,
           "pestControl": 271.0,
-          "total": 57292.6
+          "total": 295.0
         },
         "maintenanceSegments": [
           {
@@ -12492,9 +15590,9 @@
       "methodId": "seed_dispersal_ntfp",
       "methodLabel": "Seed Dispersal (NTFP)",
       "kpis": {
-        "npv": -51338.91,
+        "npv": -1398.71,
         "irr": null,
-        "bcr": 0.09,
+        "bcr": 0.78,
         "paybackYear": null,
         "totalCost20yr": 9710.0,
         "totalBenefit20yr": 8333.0,
@@ -12505,23 +15603,23 @@
       "npvByRate": [
         {
           "rate": 0.03,
-          "npv": -54249.37
+          "npv": -1460.17
         },
         {
           "rate": 0.06,
-          "npv": -51338.91
+          "npv": -1398.71
         },
         {
           "rate": 0.08,
-          "npv": -49938.8
+          "npv": -1397.6
         },
         {
           "rate": 0.1,
-          "npv": -48838.2
+          "npv": -1411.77
         },
         {
           "rate": 0.12,
-          "npv": -47960.34
+          "npv": -1433.1
         }
       ],
       "cashFlows": [
@@ -12529,201 +15627,201 @@
           "year": 1,
           "implCost": 1000.0,
           "maintCost": 0.0,
-          "constraintCost": 39913.07,
-          "totalCost": 40913.07,
+          "constraintCost": 14.75,
+          "totalCost": 1014.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -40913.07
+          "netFlow": -1014.75
         },
         {
           "year": 2,
           "implCost": 0.0,
           "maintCost": 440.0,
-          "constraintCost": 914.71,
-          "totalCost": 1354.71,
+          "constraintCost": 14.75,
+          "totalCost": 454.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1354.71
+          "netFlow": -454.75
         },
         {
           "year": 3,
           "implCost": 0.0,
           "maintCost": 440.0,
-          "constraintCost": 914.71,
-          "totalCost": 1354.71,
+          "constraintCost": 14.75,
+          "totalCost": 454.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1354.71
+          "netFlow": -454.75
         },
         {
           "year": 4,
           "implCost": 0.0,
           "maintCost": 440.0,
-          "constraintCost": 914.71,
-          "totalCost": 1354.71,
+          "constraintCost": 14.75,
+          "totalCost": 454.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1354.71
+          "netFlow": -454.75
         },
         {
           "year": 5,
           "implCost": 0.0,
           "maintCost": 440.0,
-          "constraintCost": 914.71,
-          "totalCost": 1354.71,
+          "constraintCost": 14.75,
+          "totalCost": 454.75,
           "ntfpRevenue": 663.0,
           "totalBenefit": 663.0,
-          "netFlow": -691.71
+          "netFlow": 208.25
         },
         {
           "year": 6,
           "implCost": 0.0,
           "maintCost": 485.0,
-          "constraintCost": 914.71,
-          "totalCost": 1399.71,
+          "constraintCost": 14.75,
+          "totalCost": 499.75,
           "ntfpRevenue": 663.0,
           "totalBenefit": 663.0,
-          "netFlow": -736.71
+          "netFlow": 163.25
         },
         {
           "year": 7,
           "implCost": 0.0,
           "maintCost": 485.0,
-          "constraintCost": 914.71,
-          "totalCost": 1399.71,
+          "constraintCost": 14.75,
+          "totalCost": 499.75,
           "ntfpRevenue": 663.0,
           "totalBenefit": 663.0,
-          "netFlow": -736.71
+          "netFlow": 163.25
         },
         {
           "year": 8,
           "implCost": 0.0,
           "maintCost": 485.0,
-          "constraintCost": 914.71,
-          "totalCost": 1399.71,
+          "constraintCost": 14.75,
+          "totalCost": 499.75,
           "ntfpRevenue": 663.0,
           "totalBenefit": 663.0,
-          "netFlow": -736.71
+          "netFlow": 163.25
         },
         {
           "year": 9,
           "implCost": 0.0,
           "maintCost": 485.0,
-          "constraintCost": 914.71,
-          "totalCost": 1399.71,
+          "constraintCost": 14.75,
+          "totalCost": 499.75,
           "ntfpRevenue": 663.0,
           "totalBenefit": 663.0,
-          "netFlow": -736.71
+          "netFlow": 163.25
         },
         {
           "year": 10,
           "implCost": 0.0,
           "maintCost": 485.0,
-          "constraintCost": 914.71,
-          "totalCost": 1399.71,
+          "constraintCost": 14.75,
+          "totalCost": 499.75,
           "ntfpRevenue": 663.0,
           "totalBenefit": 663.0,
-          "netFlow": -736.71
+          "netFlow": 163.25
         },
         {
           "year": 11,
           "implCost": 0.0,
           "maintCost": 475.0,
-          "constraintCost": 914.71,
-          "totalCost": 1389.71,
+          "constraintCost": 14.75,
+          "totalCost": 489.75,
           "ntfpRevenue": 871.0,
           "totalBenefit": 871.0,
-          "netFlow": -518.71
+          "netFlow": 381.25
         },
         {
           "year": 12,
           "implCost": 0.0,
           "maintCost": 475.0,
-          "constraintCost": 914.71,
-          "totalCost": 1389.71,
+          "constraintCost": 14.75,
+          "totalCost": 489.75,
           "ntfpRevenue": 871.0,
           "totalBenefit": 871.0,
-          "netFlow": -518.71
+          "netFlow": 381.25
         },
         {
           "year": 13,
           "implCost": 0.0,
           "maintCost": 475.0,
-          "constraintCost": 914.71,
-          "totalCost": 1389.71,
+          "constraintCost": 14.75,
+          "totalCost": 489.75,
           "ntfpRevenue": 871.0,
           "totalBenefit": 871.0,
-          "netFlow": -518.71
+          "netFlow": 381.25
         },
         {
           "year": 14,
           "implCost": 0.0,
           "maintCost": 475.0,
-          "constraintCost": 914.71,
-          "totalCost": 1389.71,
+          "constraintCost": 14.75,
+          "totalCost": 489.75,
           "ntfpRevenue": 871.0,
           "totalBenefit": 871.0,
-          "netFlow": -518.71
+          "netFlow": 381.25
         },
         {
           "year": 15,
           "implCost": 0.0,
           "maintCost": 475.0,
-          "constraintCost": 914.71,
-          "totalCost": 1389.71,
+          "constraintCost": 14.75,
+          "totalCost": 489.75,
           "ntfpRevenue": 871.0,
           "totalBenefit": 871.0,
-          "netFlow": -518.71
+          "netFlow": 381.25
         },
         {
           "year": 16,
           "implCost": 0.0,
           "maintCost": 430.0,
-          "constraintCost": 914.71,
-          "totalCost": 1344.71,
+          "constraintCost": 14.75,
+          "totalCost": 444.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1344.71
+          "netFlow": -444.75
         },
         {
           "year": 17,
           "implCost": 0.0,
           "maintCost": 430.0,
-          "constraintCost": 914.71,
-          "totalCost": 1344.71,
+          "constraintCost": 14.75,
+          "totalCost": 444.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1344.71
+          "netFlow": -444.75
         },
         {
           "year": 18,
           "implCost": 0.0,
           "maintCost": 430.0,
-          "constraintCost": 914.71,
-          "totalCost": 1344.71,
+          "constraintCost": 14.75,
+          "totalCost": 444.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1344.71
+          "netFlow": -444.75
         },
         {
           "year": 19,
           "implCost": 0.0,
           "maintCost": 430.0,
-          "constraintCost": 914.71,
-          "totalCost": 1344.71,
+          "constraintCost": 14.75,
+          "totalCost": 444.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1344.71
+          "netFlow": -444.75
         },
         {
           "year": 20,
           "implCost": 0.0,
           "maintCost": 430.0,
-          "constraintCost": 914.71,
-          "totalCost": 1344.71,
+          "constraintCost": 14.75,
+          "totalCost": 444.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1344.71
+          "netFlow": -444.75
         }
       ],
       "detail": {
@@ -12731,10 +15829,10 @@
         "maintenanceTotal": 8710.0,
         "constraints": {
           "firebreak": 0.0,
-          "fencing": 56997.6,
+          "fencing": 0,
           "weedControl": 24.0,
           "pestControl": 271.0,
-          "total": 57292.6
+          "total": 295.0
         },
         "maintenanceSegments": [
           {
@@ -12826,7 +15924,7 @@
       "methodId": "seedling_planting",
       "methodLabel": "Full Seedling Plantation",
       "kpis": {
-        "npv": -56517.99,
+        "npv": -6577.79,
         "irr": null,
         "bcr": 0.0,
         "paybackYear": null,
@@ -12839,23 +15937,23 @@
       "npvByRate": [
         {
           "rate": 0.03,
-          "npv": -60676.15
+          "npv": -7886.96
         },
         {
           "rate": 0.06,
-          "npv": -56517.99
+          "npv": -6577.79
         },
         {
           "rate": 0.08,
-          "npv": -54474.54
+          "npv": -5933.35
         },
         {
           "rate": 0.1,
-          "npv": -52845.34
+          "npv": -5418.91
         },
         {
           "rate": 0.12,
-          "npv": -51530.48
+          "npv": -5003.24
         }
       ],
       "cashFlows": [
@@ -12863,201 +15961,201 @@
           "year": 1,
           "implCost": 1900.0,
           "maintCost": 0.0,
-          "constraintCost": 39913.07,
-          "totalCost": 41813.07,
+          "constraintCost": 14.75,
+          "totalCost": 1914.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -41813.07
+          "netFlow": -1914.75
         },
         {
           "year": 2,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 3,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 4,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 5,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 6,
           "implCost": 0.0,
           "maintCost": 410.0,
-          "constraintCost": 914.71,
-          "totalCost": 1324.71,
+          "constraintCost": 14.75,
+          "totalCost": 424.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1324.71
+          "netFlow": -424.75
         },
         {
           "year": 7,
           "implCost": 0.0,
           "maintCost": 410.0,
-          "constraintCost": 914.71,
-          "totalCost": 1324.71,
+          "constraintCost": 14.75,
+          "totalCost": 424.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1324.71
+          "netFlow": -424.75
         },
         {
           "year": 8,
           "implCost": 0.0,
           "maintCost": 410.0,
-          "constraintCost": 914.71,
-          "totalCost": 1324.71,
+          "constraintCost": 14.75,
+          "totalCost": 424.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1324.71
+          "netFlow": -424.75
         },
         {
           "year": 9,
           "implCost": 0.0,
           "maintCost": 410.0,
-          "constraintCost": 914.71,
-          "totalCost": 1324.71,
+          "constraintCost": 14.75,
+          "totalCost": 424.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1324.71
+          "netFlow": -424.75
         },
         {
           "year": 10,
           "implCost": 0.0,
           "maintCost": 410.0,
-          "constraintCost": 914.71,
-          "totalCost": 1324.71,
+          "constraintCost": 14.75,
+          "totalCost": 424.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1324.71
+          "netFlow": -424.75
         },
         {
           "year": 11,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 12,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 13,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 14,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 15,
           "implCost": 0.0,
           "maintCost": 405.0,
-          "constraintCost": 914.71,
-          "totalCost": 1319.71,
+          "constraintCost": 14.75,
+          "totalCost": 419.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1319.71
+          "netFlow": -419.75
         },
         {
           "year": 16,
           "implCost": 0.0,
           "maintCost": 385.0,
-          "constraintCost": 914.71,
-          "totalCost": 1299.71,
+          "constraintCost": 14.75,
+          "totalCost": 399.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1299.71
+          "netFlow": -399.75
         },
         {
           "year": 17,
           "implCost": 0.0,
           "maintCost": 385.0,
-          "constraintCost": 914.71,
-          "totalCost": 1299.71,
+          "constraintCost": 14.75,
+          "totalCost": 399.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1299.71
+          "netFlow": -399.75
         },
         {
           "year": 18,
           "implCost": 0.0,
           "maintCost": 385.0,
-          "constraintCost": 914.71,
-          "totalCost": 1299.71,
+          "constraintCost": 14.75,
+          "totalCost": 399.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1299.71
+          "netFlow": -399.75
         },
         {
           "year": 19,
           "implCost": 0.0,
           "maintCost": 385.0,
-          "constraintCost": 914.71,
-          "totalCost": 1299.71,
+          "constraintCost": 14.75,
+          "totalCost": 399.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1299.71
+          "netFlow": -399.75
         },
         {
           "year": 20,
           "implCost": 0.0,
           "maintCost": 385.0,
-          "constraintCost": 914.71,
-          "totalCost": 1299.71,
+          "constraintCost": 14.75,
+          "totalCost": 399.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1299.71
+          "netFlow": -399.75
         }
       ],
       "detail": {
@@ -13065,10 +16163,10 @@
         "maintenanceTotal": 7620.0,
         "constraints": {
           "firebreak": 0.0,
-          "fencing": 56997.6,
+          "fencing": 0,
           "weedControl": 24.0,
           "pestControl": 271.0,
-          "total": 57292.6
+          "total": 295.0
         },
         "maintenanceSegments": [
           {
@@ -13136,9 +16234,9 @@
       "methodId": "seedling_planting_ntfp",
       "methodLabel": "Full Seedling Plantation (NTFP)",
       "kpis": {
-        "npv": -52111.1,
+        "npv": -2170.89,
         "irr": null,
-        "bcr": 0.1,
+        "bcr": 0.72,
         "paybackYear": null,
         "totalCost20yr": 11250.0,
         "totalBenefit20yr": 9230.0,
@@ -13149,23 +16247,23 @@
       "npvByRate": [
         {
           "rate": 0.03,
-          "npv": -54960.98
+          "npv": -2171.78
         },
         {
           "rate": 0.06,
-          "npv": -52111.1
+          "npv": -2170.89
         },
         {
           "rate": 0.08,
-          "npv": -50746.5
+          "npv": -2205.31
         },
         {
           "rate": 0.1,
-          "npv": -49677.68
+          "npv": -2251.25
         },
         {
           "rate": 0.12,
-          "npv": -48828.11
+          "npv": -2300.87
         }
       ],
       "cashFlows": [
@@ -13173,201 +16271,201 @@
           "year": 1,
           "implCost": 2100.0,
           "maintCost": 0.0,
-          "constraintCost": 39913.07,
-          "totalCost": 42013.07,
+          "constraintCost": 14.75,
+          "totalCost": 2114.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -42013.07
+          "netFlow": -2114.75
         },
         {
           "year": 2,
           "implCost": 0.0,
           "maintCost": 455.0,
-          "constraintCost": 914.71,
-          "totalCost": 1369.71,
+          "constraintCost": 14.75,
+          "totalCost": 469.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1369.71
+          "netFlow": -469.75
         },
         {
           "year": 3,
           "implCost": 0.0,
           "maintCost": 455.0,
-          "constraintCost": 914.71,
-          "totalCost": 1369.71,
+          "constraintCost": 14.75,
+          "totalCost": 469.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1369.71
+          "netFlow": -469.75
         },
         {
           "year": 4,
           "implCost": 0.0,
           "maintCost": 455.0,
-          "constraintCost": 914.71,
-          "totalCost": 1369.71,
+          "constraintCost": 14.75,
+          "totalCost": 469.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1369.71
+          "netFlow": -469.75
         },
         {
           "year": 5,
           "implCost": 0.0,
           "maintCost": 455.0,
-          "constraintCost": 914.71,
-          "totalCost": 1369.71,
+          "constraintCost": 14.75,
+          "totalCost": 469.75,
           "ntfpRevenue": 780.0,
           "totalBenefit": 780.0,
-          "netFlow": -589.71
+          "netFlow": 310.25
         },
         {
           "year": 6,
           "implCost": 0.0,
           "maintCost": 513.0,
-          "constraintCost": 914.71,
-          "totalCost": 1427.71,
+          "constraintCost": 14.75,
+          "totalCost": 527.75,
           "ntfpRevenue": 780.0,
           "totalBenefit": 780.0,
-          "netFlow": -647.71
+          "netFlow": 252.25
         },
         {
           "year": 7,
           "implCost": 0.0,
           "maintCost": 513.0,
-          "constraintCost": 914.71,
-          "totalCost": 1427.71,
+          "constraintCost": 14.75,
+          "totalCost": 527.75,
           "ntfpRevenue": 780.0,
           "totalBenefit": 780.0,
-          "netFlow": -647.71
+          "netFlow": 252.25
         },
         {
           "year": 8,
           "implCost": 0.0,
           "maintCost": 513.0,
-          "constraintCost": 914.71,
-          "totalCost": 1427.71,
+          "constraintCost": 14.75,
+          "totalCost": 527.75,
           "ntfpRevenue": 780.0,
           "totalBenefit": 780.0,
-          "netFlow": -647.71
+          "netFlow": 252.25
         },
         {
           "year": 9,
           "implCost": 0.0,
           "maintCost": 513.0,
-          "constraintCost": 914.71,
-          "totalCost": 1427.71,
+          "constraintCost": 14.75,
+          "totalCost": 527.75,
           "ntfpRevenue": 780.0,
           "totalBenefit": 780.0,
-          "netFlow": -647.71
+          "netFlow": 252.25
         },
         {
           "year": 10,
           "implCost": 0.0,
           "maintCost": 513.0,
-          "constraintCost": 914.71,
-          "totalCost": 1427.71,
+          "constraintCost": 14.75,
+          "totalCost": 527.75,
           "ntfpRevenue": 780.0,
           "totalBenefit": 780.0,
-          "netFlow": -647.71
+          "netFlow": 252.25
         },
         {
           "year": 11,
           "implCost": 0.0,
           "maintCost": 503.0,
-          "constraintCost": 914.71,
-          "totalCost": 1417.71,
+          "constraintCost": 14.75,
+          "totalCost": 517.75,
           "ntfpRevenue": 910.0,
           "totalBenefit": 910.0,
-          "netFlow": -507.71
+          "netFlow": 392.25
         },
         {
           "year": 12,
           "implCost": 0.0,
           "maintCost": 503.0,
-          "constraintCost": 914.71,
-          "totalCost": 1417.71,
+          "constraintCost": 14.75,
+          "totalCost": 517.75,
           "ntfpRevenue": 910.0,
           "totalBenefit": 910.0,
-          "netFlow": -507.71
+          "netFlow": 392.25
         },
         {
           "year": 13,
           "implCost": 0.0,
           "maintCost": 503.0,
-          "constraintCost": 914.71,
-          "totalCost": 1417.71,
+          "constraintCost": 14.75,
+          "totalCost": 517.75,
           "ntfpRevenue": 910.0,
           "totalBenefit": 910.0,
-          "netFlow": -507.71
+          "netFlow": 392.25
         },
         {
           "year": 14,
           "implCost": 0.0,
           "maintCost": 503.0,
-          "constraintCost": 914.71,
-          "totalCost": 1417.71,
+          "constraintCost": 14.75,
+          "totalCost": 517.75,
           "ntfpRevenue": 910.0,
           "totalBenefit": 910.0,
-          "netFlow": -507.71
+          "netFlow": 392.25
         },
         {
           "year": 15,
           "implCost": 0.0,
           "maintCost": 503.0,
-          "constraintCost": 914.71,
-          "totalCost": 1417.71,
+          "constraintCost": 14.75,
+          "totalCost": 517.75,
           "ntfpRevenue": 910.0,
           "totalBenefit": 910.0,
-          "netFlow": -507.71
+          "netFlow": 392.25
         },
         {
           "year": 16,
           "implCost": 0.0,
           "maintCost": 450.0,
-          "constraintCost": 914.71,
-          "totalCost": 1364.71,
+          "constraintCost": 14.75,
+          "totalCost": 464.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1364.71
+          "netFlow": -464.75
         },
         {
           "year": 17,
           "implCost": 0.0,
           "maintCost": 450.0,
-          "constraintCost": 914.71,
-          "totalCost": 1364.71,
+          "constraintCost": 14.75,
+          "totalCost": 464.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1364.71
+          "netFlow": -464.75
         },
         {
           "year": 18,
           "implCost": 0.0,
           "maintCost": 450.0,
-          "constraintCost": 914.71,
-          "totalCost": 1364.71,
+          "constraintCost": 14.75,
+          "totalCost": 464.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1364.71
+          "netFlow": -464.75
         },
         {
           "year": 19,
           "implCost": 0.0,
           "maintCost": 450.0,
-          "constraintCost": 914.71,
-          "totalCost": 1364.71,
+          "constraintCost": 14.75,
+          "totalCost": 464.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1364.71
+          "netFlow": -464.75
         },
         {
           "year": 20,
           "implCost": 0.0,
           "maintCost": 450.0,
-          "constraintCost": 914.71,
-          "totalCost": 1364.71,
+          "constraintCost": 14.75,
+          "totalCost": 464.75,
           "ntfpRevenue": 0.0,
           "totalBenefit": 0.0,
-          "netFlow": -1364.71
+          "netFlow": -464.75
         }
       ],
       "detail": {
@@ -13375,10 +16473,10 @@
         "maintenanceTotal": 9150.0,
         "constraints": {
           "firebreak": 0.0,
-          "fencing": 56997.6,
+          "fencing": 0,
           "weedControl": 24.0,
           "pestControl": 271.0,
-          "total": 57292.6
+          "total": 295.0
         },
         "maintenanceSegments": [
           {
@@ -20282,36 +23380,36 @@
       "methodId": "seedling_planting_ntfp",
       "methodLabel": "Full Seedling Plantation (NTFP)",
       "kpis": {
-        "npv": 70370.33,
-        "irr": 47.4,
-        "bcr": 10.53,
-        "paybackYear": 6,
+        "npv": 3766.55,
+        "irr": 13.7,
+        "bcr": 1.51,
+        "paybackYear": 10,
         "totalCost20yr": 4370.0,
-        "totalBenefit20yr": 166300.0,
+        "totalBenefit20yr": 22247.0,
         "implCostY1": 1530.0,
         "maintenanceTotal": 2840.0,
-        "ntfpRevenueTotal": 166300.0
+        "ntfpRevenueTotal": 22247.0
       },
       "npvByRate": [
         {
           "rate": 0.03,
-          "npv": 103542.74
+          "npv": 6857.48
         },
         {
           "rate": 0.06,
-          "npv": 70370.33
+          "npv": 3766.55
         },
         {
           "rate": 0.08,
-          "npv": 55041.5
+          "npv": 2367.91
         },
         {
           "rate": 0.1,
-          "npv": 43422.12
+          "npv": 1322.34
         },
         {
           "rate": 0.12,
-          "npv": 34522.09
+          "npv": 530.5
         }
       ],
       "cashFlows": [
@@ -20351,9 +23449,9 @@
           "maintCost": 220.0,
           "constraintCost": 258.95,
           "totalCost": 478.95,
-          "ntfpRevenue": 0.0,
-          "totalBenefit": 0.0,
-          "netFlow": -478.95
+          "ntfpRevenue": 945.0,
+          "totalBenefit": 945.0,
+          "netFlow": 466.05
         },
         {
           "year": 5,
@@ -20361,9 +23459,9 @@
           "maintCost": 280.0,
           "constraintCost": 258.95,
           "totalCost": 538.95,
-          "ntfpRevenue": 4750.0,
-          "totalBenefit": 4750.0,
-          "netFlow": 4211.05
+          "ntfpRevenue": 1418.0,
+          "totalBenefit": 1418.0,
+          "netFlow": 879.05
         },
         {
           "year": 6,
@@ -20371,9 +23469,9 @@
           "maintCost": 200.0,
           "constraintCost": 258.95,
           "totalCost": 458.95,
-          "ntfpRevenue": 4750.0,
-          "totalBenefit": 4750.0,
-          "netFlow": 4291.05
+          "ntfpRevenue": 1418.0,
+          "totalBenefit": 1418.0,
+          "netFlow": 959.05
         },
         {
           "year": 7,
@@ -20381,9 +23479,9 @@
           "maintCost": 200.0,
           "constraintCost": 258.95,
           "totalCost": 458.95,
-          "ntfpRevenue": 4750.0,
-          "totalBenefit": 4750.0,
-          "netFlow": 4291.05
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -458.95
         },
         {
           "year": 8,
@@ -20391,9 +23489,9 @@
           "maintCost": 200.0,
           "constraintCost": 258.95,
           "totalCost": 458.95,
-          "ntfpRevenue": 4750.0,
-          "totalBenefit": 4750.0,
-          "netFlow": 4291.05
+          "ntfpRevenue": 1692.0,
+          "totalBenefit": 1692.0,
+          "netFlow": 1233.05
         },
         {
           "year": 9,
@@ -20401,9 +23499,9 @@
           "maintCost": 200.0,
           "constraintCost": 258.95,
           "totalCost": 458.95,
-          "ntfpRevenue": 4750.0,
-          "totalBenefit": 4750.0,
-          "netFlow": 4291.05
+          "ntfpRevenue": 1692.0,
+          "totalBenefit": 1692.0,
+          "netFlow": 1233.05
         },
         {
           "year": 10,
@@ -20411,9 +23509,9 @@
           "maintCost": 200.0,
           "constraintCost": 258.95,
           "totalCost": 458.95,
-          "ntfpRevenue": 9400.0,
-          "totalBenefit": 9400.0,
-          "netFlow": 8941.05
+          "ntfpRevenue": 1692.0,
+          "totalBenefit": 1692.0,
+          "netFlow": 1233.05
         },
         {
           "year": 11,
@@ -20421,9 +23519,9 @@
           "maintCost": 120.0,
           "constraintCost": 258.95,
           "totalCost": 378.95,
-          "ntfpRevenue": 9400.0,
-          "totalBenefit": 9400.0,
-          "netFlow": 9021.05
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -378.95
         },
         {
           "year": 12,
@@ -20431,9 +23529,9 @@
           "maintCost": 120.0,
           "constraintCost": 258.95,
           "totalCost": 378.95,
-          "ntfpRevenue": 9400.0,
-          "totalBenefit": 9400.0,
-          "netFlow": 9021.05
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -378.95
         },
         {
           "year": 13,
@@ -20441,9 +23539,9 @@
           "maintCost": 120.0,
           "constraintCost": 258.95,
           "totalCost": 378.95,
-          "ntfpRevenue": 9400.0,
-          "totalBenefit": 9400.0,
-          "netFlow": 9021.05
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -378.95
         },
         {
           "year": 14,
@@ -20451,9 +23549,9 @@
           "maintCost": 120.0,
           "constraintCost": 258.95,
           "totalCost": 378.95,
-          "ntfpRevenue": 9400.0,
-          "totalBenefit": 9400.0,
-          "netFlow": 9021.05
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -378.95
         },
         {
           "year": 15,
@@ -20461,9 +23559,9 @@
           "maintCost": 120.0,
           "constraintCost": 258.95,
           "totalCost": 378.95,
-          "ntfpRevenue": 13150.0,
-          "totalBenefit": 13150.0,
-          "netFlow": 12771.05
+          "ntfpRevenue": 0.0,
+          "totalBenefit": 0.0,
+          "netFlow": -378.95
         },
         {
           "year": 16,
@@ -20471,9 +23569,9 @@
           "maintCost": 60.0,
           "constraintCost": 258.95,
           "totalCost": 318.95,
-          "ntfpRevenue": 13150.0,
-          "totalBenefit": 13150.0,
-          "netFlow": 12831.05
+          "ntfpRevenue": 2678.0,
+          "totalBenefit": 2678.0,
+          "netFlow": 2359.05
         },
         {
           "year": 17,
@@ -20481,9 +23579,9 @@
           "maintCost": 60.0,
           "constraintCost": 258.95,
           "totalCost": 318.95,
-          "ntfpRevenue": 13150.0,
-          "totalBenefit": 13150.0,
-          "netFlow": 12831.05
+          "ntfpRevenue": 2678.0,
+          "totalBenefit": 2678.0,
+          "netFlow": 2359.05
         },
         {
           "year": 18,
@@ -20491,9 +23589,9 @@
           "maintCost": 60.0,
           "constraintCost": 258.95,
           "totalCost": 318.95,
-          "ntfpRevenue": 13150.0,
-          "totalBenefit": 13150.0,
-          "netFlow": 12831.05
+          "ntfpRevenue": 2678.0,
+          "totalBenefit": 2678.0,
+          "netFlow": 2359.05
         },
         {
           "year": 19,
@@ -20501,9 +23599,9 @@
           "maintCost": 60.0,
           "constraintCost": 258.95,
           "totalCost": 318.95,
-          "ntfpRevenue": 28050.0,
-          "totalBenefit": 28050.0,
-          "netFlow": 27731.05
+          "ntfpRevenue": 2678.0,
+          "totalBenefit": 2678.0,
+          "netFlow": 2359.05
         },
         {
           "year": 20,
@@ -20511,9 +23609,9 @@
           "maintCost": 60.0,
           "constraintCost": 258.95,
           "totalCost": 318.95,
-          "ntfpRevenue": 14900.0,
-          "totalBenefit": 14900.0,
-          "netFlow": 14581.05
+          "ntfpRevenue": 2678.0,
+          "totalBenefit": 2678.0,
+          "netFlow": 2359.05
         }
       ],
       "detail": {
@@ -20553,11 +23651,11 @@
           }
         ],
         "benefits": {
-          "ntfpRevenueTotal": 166300.0,
-          "total": 166300.0
+          "ntfpRevenueTotal": 22247.0,
+          "total": 22247.0
         },
         "costTotal20yr": 4370.0,
-        "benefitTotal20yr": 166300.0
+        "benefitTotal20yr": 22247.0
       }
     },
     {
